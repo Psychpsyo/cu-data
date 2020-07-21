@@ -1,1 +1,0 @@
-Get-ChildItem -path .\sourcedata -recurse |?{ ! $_.PSIsContainer } |?{($_.name).contains(".txt")} | %{ Out-File -filepath .\cards.txt -inputobject (get-content $_.fullname) -Append}
