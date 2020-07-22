@@ -1,45 +1,45 @@
-I00001|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|0|Stone Circle
-I00002|5|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|1|Truth Tower
-I00003|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|2|Witch's Remedy
-I00004|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|3|New Blueprint
-I00005|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|4|Muscle Pump Potion
-I00006|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|5|Convening Horn
-I00007|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|6|Body Duplication Mirror
-I00008|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|7|Substitution Doll
-I00009|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|8|Common Sword
-I00010|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|9|Golden Sword
-I00011|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|10|Overweight Armor
-I00012|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|11|Junk Shield
-I00013|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|12|Sealing Chains
-I00014|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|13|Clay Shield
-I00015|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|14|Earth-shattering Gauntlet
-I00016|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|15|Famed Katana - Oval Gale
-I00017|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|16|Giant's Maul
-I00018|3|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|17|Medusa Shield
-I00019|4|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|18|Scorching Hot Sword
-I00020|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|19|Wanted Poster
-I00021|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|20|Reality Crystal
-I00022|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|21|Chain Spike
-I00023|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|22|Charge Apparatus
-I00024|6|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|23|White Night, Ice Castle
-I00025|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|24|Embers
-I00026|3|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|25|Kusanagi, of the God Era
-I00027|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|26|Magic Katana - Fire Oni
-I00028|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|27|Wrathful God's StatueSS
-I00029|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|28|Ancient Tome
-I00030|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|29|Dark Tome of Magic
-I00031|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|30|Chest to the Abyss
-I00032|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|31|Loss Potion
-I00033|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|32|Heaven's Reflector
-I00034|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|33|Mad Garden Plant
-I00035|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|34|Old Katana - Swift Soil
-I00036|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|35|Sword Pair of the Spring
-I00037|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|36|Introduction to Summons
-I00038|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|37|Hidden Seabed Ruins
-I00039|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|38|Unmelting Ice Lump
-I00040|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|39|Fate's Dice
-I00041|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|40|Malicious Symbol
-I00042|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|41|Seafloor Treasure
-I00043|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|42|Miracle Blueprint
-I00044|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|43|Rebirth Flames
-I00045|7|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|44|Maximum: Mobile Artillery
+I00001|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|0|Stone Circle/ストーン・サークル/すとーん・さーくる||
+I00002|5|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|1|Truth Tower/真理の塔/しんりのとう||
+I00003|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|2|Witch's Remedy/魔女の治療薬/まじょのちりょうやく||
+I00004|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|3|New Blueprint/新たな図面/あらたなずめん||
+I00005|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|4|Muscle Pump Potion/筋力増強剤/きんりょくぞうきょうざい||
+I00006|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|5|Convening Horn/召集の角笛/しょうしゅうのつのぶえ||
+I00007|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|6|Body Duplication Mirror/写し身の鏡/うつしみのかがみ||
+I00008|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|7|Substitution Doll/身代わりの人形/みかわりのひとがた||
+I00009|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|8|Common Sword/コモン・ソード/こもん・そーど||
+I00010|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|9|Golden Sword/ゴールデン・ソード/ごーるでん・そーど||
+I00011|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|10|Overweight Armor/重すぎた鎧/おもすぎたよろい||
+I00012|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|11|Junk Shield/ジャンク・シールド/じゃんく・しーるど||
+I00013|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|12|Sealing Chains/封印の鎖/ふういんのくさり||
+I00014|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|13|Clay Shield/大地の盾/だいちのたて||
+I00015|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|14|Earth-shattering Gauntlet/地砕きのガントレット/じくだきのがんとれっと||
+I00016|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|15|Famed Katana - Oval Gale/名刀-疾風丸-/めいとう-しっぷうまる-||
+I00017|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|16|Giant's Maul/巨人の大鎚/きょじんのおおづち||
+I00018|3|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|17|Medusa Shield/メデューサの盾/めでゅーさのたて||
+I00019|4|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|18|Scorching Hot Sword/灼熱の剣/しゃくねつのけん||
+I00020|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|19|Wanted Poster/指名手配書/しめいてはいしょ||
+I00021|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|20|Reality Crystal/現晶石/げんしょうせき||
+I00022|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|21|Chain Spike/チェーン・スパイク/ちぇーん・すぱいく||
+I00023|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|22|Charge Apparatus/蓄電装置/ちくでんそうち||
+I00024|6|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|23|"White Night, Ice Castle/白夜の氷城/びゃくやのひょうじょう"||
+I00025|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|24|Embers/火種/ひだね||
+I00026|3|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|25|"Kusanagi, of the God Era/神世の剣クサナギ/かみよのつるぎくさなぎ"||
+I00027|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|26|Magic Katana - Fire Oni/妖刀-炎鬼-/ようかたな-ほのおおに-||
+I00028|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|27|Wrathful God's StatueSS/祟り神の石像/たたりがみのせきぞう||
+I00029|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|28|Ancient Tome/古代の魔導書/こだいのまどうしょ||
+I00030|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|29|Dark Tome of Magic/暗黒の魔導書/あんこくのまどうしょ||
+I00031|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|30|Chest to the Abyss/深淵を覗く箱/しんえんをのぞくはこ||
+I00032|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|31|Loss Potion/喪失の秘薬/そうしつのひやく||
+I00033|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|32|Heaven's Reflector/天上の反射鏡/てんじょうのはんしゃきょう||
+I00034|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|33|Mad Garden Plant/マッドガーデン・プラント/まっどがーてん・ぷらんと||
+I00035|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|34|Old Katana - Swift Soil/古刀-地走-/ことう-じばしり-||
+I00036|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|35|Sword Pair of the Spring/泉の双剣/いずみのそうけん||
+I00037|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|36|Introduction to Summons/召喚術の入門書/しょうかんじゅつのにゅうもんしょ||
+I00038|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|37|Hidden Seabed Ruins/神秘の海底遺跡/しんぴのかいていいせき||
+I00039|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|38|Unmelting Ice Lump/消えぬ氷塊/きえぬひょうかい||
+I00040|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|39|Fate's Dice/運命のサイコロ/うんめいのさいころ||
+I00041|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|40|Malicious Symbol/悪意の印/あくいのしるし||
+I00042|2|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|41|Seafloor Treasure/海底の財宝/かいていのざいほう||
+I00043|0|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|42|Miracle Blueprint/奇跡の図面/きせきのずめん||
+I00044|1|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|43|Rebirth Flames/再生の炎/さいせいのほのお||
+I00045|7|0|0|neosdb:///656cf2d1adfe49fa17be36227eec63c233c09db915fb89afcc756e2fd3408d2e.png|neosdb:///6a6da68cada7714c9c71ebe04a1bf200576b138cc279878f8ec0e6261b87c000.png|44|Maximum: Mobile Artillery/機動大砲塔　マキシマム/きどうだいほうとう　まきしまむ||
