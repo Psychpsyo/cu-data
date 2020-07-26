@@ -1,3 +1,4 @@
+
 U00001|7|700|600|neosdb:///6b0a7d84c7c5c4417cff07ede1f2dc26c52104ee946a4420819f04532f282d67.png|neosdb:///b7115cec5ed2bc3baa0aa45f8190840ea12475d967106cb20e2681127e35423a.png|0|"Oz, Sorcerer Supreme/至高の魔術師オズ/しこうのまじゅつしおず"|"Light, Dark, Earth, Water, Fire, Wind, Ice, Electric, Mage/光,闇,地,水,炎,風,氷,雷,魔術師"
 U00002|1|100|100|neosdb:///6b0a7d84c7c5c4417cff07ede1f2dc26c52104ee946a4420819f04532f282d67.png|neosdb:///b7115cec5ed2bc3baa0aa45f8190840ea12475d967106cb20e2681127e35423a.png|1|"Dorothy, Apprentice Witch /見習い魔女ドロシー/みならいまじょどろしー"|"Spirit, Mage/精霊,魔術師"
 U00003|6|600|400|neosdb:///6b0a7d84c7c5c4417cff07ede1f2dc26c52104ee946a4420819f04532f282d67.png|neosdb:///b7115cec5ed2bc3baa0aa45f8190840ea12475d967106cb20e2681127e35423a.png|2|"Borg, Purgatory Swordsman/煉獄剣士ボルグ/れんごくけんしぼるぐ"|"Dark, Electric, Warrior/闇,雷,戦士"
