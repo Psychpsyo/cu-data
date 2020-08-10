@@ -254,8 +254,7 @@ S00065|2|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818b
 S00066|1|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|20|Ancient King's Command/古代王の号令/こだいおうのごうれい|-/-
 S00067|3|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|21|Reactive Circle - Thun Roar/反応型魔法陣-雷轟-/はんのうがたまほうじん-らいごう-|"Electric, Landmine/雷,地雷"
 S00068|0|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|22|Reactive Circle - Falls Jump/反応型魔法陣-滝昇-/はんのうがたまほうじん-たきのぼり-|"Water, Landmine/水,地雷"
-S00069|1|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:
-///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|23|Pain Back/ペインバック/ぺいんばっく|-/-
+S00069|1|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|23|Pain Back/ペインバック/ぺいんばっく|-/-
 S00070|1|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|24|Matter to be Investigated/しらべもの/しらべもの|Book/書物
 S00071|0|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|25|Advanced Light/アドバンスド・ライト/あどばんすど・らいと|Light/光
 S00072|2|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|26|Akashic Records/アカシックレコード/あかしっくれこーど|Psychic/PSI
