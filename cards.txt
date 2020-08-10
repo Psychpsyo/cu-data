@@ -185,7 +185,7 @@ U00184|2|200|100|neosdb:///7013505ffd7ec69417dcb76759c3a7bbd9c247312993df15954c2
 U00185|6|600|400|neosdb:///7013505ffd7ec69417dcb76759c3a7bbd9c247312993df15954c2c3512a1cf50.webp|neosdb:///ca097d0b782f79cf9755ba84662a027829923540089b5e7a0d9dfc921573c165.jpg|4|Icy Shore Shark/氷岸ザメ/ひょうがんざめ|"Ice, Water, Fish/氷,水,魚"
 U00186|2|200|100|neosdb:///7013505ffd7ec69417dcb76759c3a7bbd9c247312993df15954c2c3512a1cf50.webp|neosdb:///ca097d0b782f79cf9755ba84662a027829923540089b5e7a0d9dfc921573c165.jpg|5|"Dia, Lightning Mage/雷光の魔導士 ディア/らいこうのまどうし でぃあ"|"Electric, Light, Mage/雷,光,魔術師"
 U00187|3|300|300|neosdb:///7013505ffd7ec69417dcb76759c3a7bbd9c247312993df15954c2c3512a1cf50.webp|neosdb:///ca097d0b782f79cf9755ba84662a027829923540089b5e7a0d9dfc921573c165.jpg|6|Burning Metal Tiger/バーニング・メタルタイガー/ばーにんぐ・めたるたいがー|"Fire, Beast, Machine/炎,獣,機械"
-U00188|3|300|300|addEnglishHere|neosdb:///ca097d0b782f79cf9755ba84662a027829923540089b5e7a0d9dfc921573c165.jpg|7|/ドラグナイト/どらぐないと|"/炎,風,ドラゴン,戦士"
+U00188|3|300|300|neosdb:///ca097d0b782f79cf9755ba84662a027829923540089b5e7a0d9dfc921573c165.jpg|neosdb:///ca097d0b782f79cf9755ba84662a027829923540089b5e7a0d9dfc921573c165.jpg|7|/ドラグナイト/どらぐないと|"/炎,風,ドラゴン,戦士"
 S00001|0|0|0|neosdb:///beb7ca44107fef26511e71608ec117b22864f4f645d57df7dce5e4c0d52983f4.webp|neosdb:///1603a1bddf5865959a8bd0cd42cea3c0ece7aa4c5251385b640a74dc7d77d194.webp|0|Arson/不審火/ふしんび|Fire/炎
 S00002|0|0|0|neosdb:///beb7ca44107fef26511e71608ec117b22864f4f645d57df7dce5e4c0d52983f4.webp|neosdb:///1603a1bddf5865959a8bd0cd42cea3c0ece7aa4c5251385b640a74dc7d77d194.webp|1|Valhalla's Blessing/ヴァルハラの祝福/?ぁるはらのしゅくふく|Light/光
 S00003|1|0|0|neosdb:///beb7ca44107fef26511e71608ec117b22864f4f645d57df7dce5e4c0d52983f4.webp|neosdb:///1603a1bddf5865959a8bd0cd42cea3c0ece7aa4c5251385b640a74dc7d77d194.webp|2|Marine Snow Sacrifice/マリンスノー・サクリファイス/まりんすのー・さくりふぁいす|Water/水
@@ -254,8 +254,8 @@ S00065|2|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818b
 S00066|1|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|20|Ancient King's Command/古代王の号令/こだいおうのごうれい|-/-
 S00067|3|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|21|Reactive Circle - Thun Roar/反応型魔法陣-雷轟-/はんのうがたまほうじん-らいごう-|"Electric, Landmine/雷,地雷"
 S00068|0|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|22|Reactive Circle - Falls Jump/反応型魔法陣-滝昇-/はんのうがたまほうじん-たきのぼり-|"Water, Landmine/水,地雷"
-S00069|1|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:|||
-///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|23|Pain Back/ペインバック/ぺいんばっく|-/-|||||
+S00069|1|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:
+///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|23|Pain Back/ペインバック/ぺいんばっく|-/-
 S00070|1|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|24|Matter to be Investigated/しらべもの/しらべもの|Book/書物
 S00071|0|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|25|Advanced Light/アドバンスド・ライト/あどばんすど・らいと|Light/光
 S00072|2|0|0|neosdb:///03299d45e211412910d62cd52758f9b0ee05d10d0ec6588e99c96818bba486f2.webp|neosdb:///ec66bb3052c75cb093b7b624c267c6729a16b81a0a60a268be70a0ee5b952781.webp|26|Akashic Records/アカシックレコード/あかしっくれこーど|Psychic/PSI
@@ -358,7 +358,7 @@ S00168|1|0|0|neosdb:///c034a8132a2e163d47c0dcdd28745be02834f6a87b0b26365a24625e2
 S00169|0|0|0|neosdb:///c034a8132a2e163d47c0dcdd28745be02834f6a87b0b26365a24625e21594615.webp|neosdb:///1ddbf734f4028c4b6e0ca990f3e251f2d56e7dd3adb29df8b1f209262406350e.jpg|33|Restraining Icicle/拘束の氷柱/こうそくのひょうちゅう|Ice/氷
 S00170|0|0|0|neosdb:///c034a8132a2e163d47c0dcdd28745be02834f6a87b0b26365a24625e21594615.webp|neosdb:///1ddbf734f4028c4b6e0ca990f3e251f2d56e7dd3adb29df8b1f209262406350e.jpg|34|Purge Attack/パージアタック/ぱーじあたっく|-/-
 S00171|1|0|0|neosdb:///c034a8132a2e163d47c0dcdd28745be02834f6a87b0b26365a24625e21594615.webp|neosdb:///1ddbf734f4028c4b6e0ca990f3e251f2d56e7dd3adb29df8b1f209262406350e.jpg|35|Attack Directive Code 8/出撃指令コード8/しゅつげきしれいこーどえいと|Machine/機械
-S00172|1|0|0|addEnglishHere|neosdb:///1ddbf734f4028c4b6e0ca990f3e251f2d56e7dd3adb29df8b1f209262406350e.jpg|36|紅蓮の召喚陣/ぐれんのしょうかんじゅつ|/炎
+S00172|1|0|0|neosdb:///1ddbf734f4028c4b6e0ca990f3e251f2d56e7dd3adb29df8b1f209262406350e.jpg|neosdb:///1ddbf734f4028c4b6e0ca990f3e251f2d56e7dd3adb29df8b1f209262406350e.jpg|36|紅蓮の召喚陣/ぐれんのしょうかんじゅつ|/炎
 I00001|2|0|0|neosdb:///66baa53a117dfc6f599d71e1f9fa5e2bfebc054269afd236f7e7fb2fb114ab79.webp|neosdb:///622fdce69b54def23a982398832a9bb0d37bd7173801b9a9a72648694dd0a482.webp|0|Stone Circle/ストーン・サークル/すとーん・さーくる|"Earth, Rock, Structure/地,岩石,建造物"
 I00002|5|0|0|neosdb:///66baa53a117dfc6f599d71e1f9fa5e2bfebc054269afd236f7e7fb2fb114ab79.webp|neosdb:///622fdce69b54def23a982398832a9bb0d37bd7173801b9a9a72648694dd0a482.webp|1|Truth Tower/真理の塔/しんりのとう|"Earth, Structure/地,建造物"
 I00003|0|0|0|neosdb:///66baa53a117dfc6f599d71e1f9fa5e2bfebc054269afd236f7e7fb2fb114ab79.webp|neosdb:///622fdce69b54def23a982398832a9bb0d37bd7173801b9a9a72648694dd0a482.webp|2|Witch's Remedy/魔女の治療薬/まじょのちりょうやく|Medicine/薬
