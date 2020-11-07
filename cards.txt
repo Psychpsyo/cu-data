@@ -476,3 +476,5 @@ T00017|1|0|0|neosdb:///c1b2da819ccb3c3655b9667bdf2a4ea11298a25f1cd1d215a82fa30ca
 T00018|1|0|0|neosdb:///c1b2da819ccb3c3655b9667bdf2a4ea11298a25f1cd1d215a82fa30ca2967e98.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|17|Circulator Token/サーキュレータートークン/さーきゅれーたーとーくん|"Wind, Machine/風,機械"
 T00019|1|100|100|neosdb:///c1b2da819ccb3c3655b9667bdf2a4ea11298a25f1cd1d215a82fa30ca2967e98.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|18|Plant Token B/プラントトークンB/ぷらんととーくんb|"Earth, Plant/地,植物"
 T00020|0|0|0|neosdb:///c1b2da819ccb3c3655b9667bdf2a4ea11298a25f1cd1d215a82fa30ca2967e98.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|19|Drifting Ghost Token/浮遊霊トークン/ふゆうれいとーくん|Ghost/死霊
+T00021|0|0|0|neosdb:///e1fd8c0c4f6d7410b61cfa75b569ce37857645ab276b0420940fbde46a3666ad.webp|neosdb:///e1fd8c0c4f6d7410b61cfa75b569ce37857645ab276b0420940fbde46a3666ad.webp|20|Mirror Water Token/鏡花水月トークン/きょうかすいげつとーくん|Illusion/幻想
+
