@@ -473,7 +473,7 @@ I00072|2|0|0|neosdb:///9726ea8806fbf9b4be35a0125eec641ad502be16855fd837ddaac3ed3
 I00073|0|0|0|neosdb:///|neosdb:///58c8ec882077047ffd98c9bb56738e6d92a865e32d3d21f996a7ac78fbcd11da.jpg|27|/三枚の御札/さんまいのおふだ|/結界
 I00074|1|0|0|neosdb:///|neosdb:///58c8ec882077047ffd98c9bb56738e6d92a865e32d3d21f996a7ac78fbcd11da.jpg|28|/地獄の灯火/じごくのともしび|/闇,炎
 I00075|0|0|0|neosdb:///|neosdb:///58c8ec882077047ffd98c9bb56738e6d92a865e32d3d21f996a7ac78fbcd11da.jpg|29|/追憶の噴水/ついおくのふんすい|/水,幻想,建造物
-I00076|1|0|0|neosdb:///|neosdb:///7da3ac2420aec9a850926e97ec57c9e01cea1bfe460ca6cc2a7045c190e1e6ed.jpg|30|/希望の発芽/きぼうのしんめ|/光,地,植物
+I00076|1|0|0|neosdb:///|neosdb:///7da3ac2420aec9a850926e97ec57c9e01cea1bfe460ca6cc2a7045c190e1e6ed.jpg|30|/希望の発芽/きぼうのはつが|/光,地,植物
 I00077||||neosdb:///|neosdb:///|31|//|/
 T00001|0|0|0|neosdb:///c1b2da819ccb3c3655b9667bdf2a4ea11298a25f1cd1d215a82fa30ca2967e98.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|0|Light Trick Token/幻光トークン/げんこうとーくん|"Illusion, Light Insect/幻想,光,虫"
 T00002|1|?|?|neosdb:///c1b2da819ccb3c3655b9667bdf2a4ea11298a25f1cd1d215a82fa30ca2967e98.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|1|Ice Art Token/アイス・アート・トークン/あいす・あーと・とーくん|Ice/氷
