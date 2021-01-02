@@ -204,7 +204,6 @@ U00203|1|0|0|neosdb:///30ae454f060cdb54147310b6a303b72d98a5a75c48142b46336fbfcac
 U00204|9|900|800|neosdb:///30ae454f060cdb54147310b6a303b72d98a5a75c48142b46336fbfcac5698e38.webp|neosdb:///f3e1cee991f9bd93a185a388c4049545e12c55e7bb0b3d0733d818ef05874bd8.jpg|23|Mephisto/契約の魔王メフィスト/けいやくのまおうめふぃすと|type/幻想,悪鬼,神話
 U00205|6|650|300|neosdb:///|neosdb:///f3e1cee991f9bd93a185a388c4049545e12c55e7bb0b3d0733d818ef05874bd8.jpg|24|/サンダーキング・サイバービートル/さんだーきんぐ・さいばーびーとる|/雷,風,機械,虫
 U00206|7|700|600|neosdb:///|neosdb:///f3e1cee991f9bd93a185a388c4049545e12c55e7bb0b3d0733d818ef05874bd8.jpg|25|/金塊龍ゴールドラゴン/きんかいりゅうごーるどらごん|/光,地,岩石,ドラゴン
-U00207||||neosdb:///|neosdb:///30ae454f060cdb54147310b6a303b72d98a5a75c48142b46336fbfcac5698e38.webp|26|asd|
 S00001|0|0|0|neosdb:///006096ac36a92195d8dcba1ce5ea323ed6e9dbf51311d471f0bf05bdeb801c4e.webp|neosdb:///90ef62ac27da3260d8ab31d3c0d65660d187cfadb7d1e3fe61632416f80fabe0.jpg|0|Arson/不審火/ふしんび|Fire/炎
 S00002|0|0|0|neosdb:///006096ac36a92195d8dcba1ce5ea323ed6e9dbf51311d471f0bf05bdeb801c4e.webp|neosdb:///90ef62ac27da3260d8ab31d3c0d65660d187cfadb7d1e3fe61632416f80fabe0.jpg|1|Valhalla's Blessing/ヴァルハラの祝福/?ぁるはらのしゅくふく|Light/光
 S00003|1|0|0|neosdb:///006096ac36a92195d8dcba1ce5ea323ed6e9dbf51311d471f0bf05bdeb801c4e.webp|neosdb:///90ef62ac27da3260d8ab31d3c0d65660d187cfadb7d1e3fe61632416f80fabe0.jpg|2|Marine Snow Sacrifice/マリンスノー・サクリファイス/まりんすのー・さくりふぁいす|Water/水
@@ -396,8 +395,6 @@ S00188|7|0|0|neosdb:///fd16ea2ef7723247133fdea35939ba9dd21bfe25f1ff55429441cd71b
 S00189|2|0|0|neosdb:///26aa061b93513cd3b2af6b6f72a065a65cac3ea0c7f835092e198926fd0af2d9.webp|neosdb:///56ea1c2ae420cca3698d966b2eec3e7baf46170df0f6dd88c75400fc9df7b196.jpg|8|Collapse Curse/崩壊の呪い/ほうかいののろい|Curse/呪い
 S00190|1|0|0|neosdb:///26aa061b93513cd3b2af6b6f72a065a65cac3ea0c7f835092e198926fd0af2d9.webp|neosdb:///56ea1c2ae420cca3698d966b2eec3e7baf46170df0f6dd88c75400fc9df7b196.jpg|9|Spiritual Derangement/精神の撹乱/せいしんのかくらん|Illusion/幻想
 S00191|0|0|0|neosdb:///|neosdb:///56ea1c2ae420cca3698d966b2eec3e7baf46170df0f6dd88c75400fc9df7b196.jpg|10|Break of the earth/ブレイク・オブ・ジアース|Earth/地/重力
-S00192||||neosdb:///||11|/|//
-S00193||||neosdb:///||12|/|//
 I00001|2|0|0|neosdb:///58d889cf11ecc77c64848b53d8af4bf6db18e67c78c569ddf896872023cf521f.webp|neosdb:///a59aff50c2a5824e4a3891af857bcf44f250232d16c6bc7c6e17aa8a0acfdb44.jpg|0|Stone Circle/ストーン・サークル/すとーん・さーくる|"Earth, Rock, Structure/地,岩石,建造物"
 I00002|5|0|0|neosdb:///58d889cf11ecc77c64848b53d8af4bf6db18e67c78c569ddf896872023cf521f.webp|neosdb:///a59aff50c2a5824e4a3891af857bcf44f250232d16c6bc7c6e17aa8a0acfdb44.jpg|1|Truth Tower/真理の塔/しんりのとう|"Earth, Structure/地,建造物"
 I00003|0|0|0|neosdb:///58d889cf11ecc77c64848b53d8af4bf6db18e67c78c569ddf896872023cf521f.webp|neosdb:///a59aff50c2a5824e4a3891af857bcf44f250232d16c6bc7c6e17aa8a0acfdb44.jpg|2|Witch's Remedy/魔女の治療薬/まじょのちりょうやく|Medicine/薬
@@ -474,9 +471,8 @@ I00073|0|0|0|neosdb:///|neosdb:///58c8ec882077047ffd98c9bb56738e6d92a865e32d3d21
 I00074|1|0|0|neosdb:///|neosdb:///58c8ec882077047ffd98c9bb56738e6d92a865e32d3d21f996a7ac78fbcd11da.jpg|28|/地獄の灯火/じごくのともしび|/闇,炎
 I00075|0|0|0|neosdb:///|neosdb:///58c8ec882077047ffd98c9bb56738e6d92a865e32d3d21f996a7ac78fbcd11da.jpg|29|/追憶の噴水/ついおくのふんすい|/水,幻想,建造物
 I00076|1|0|0|neosdb:///|neosdb:///7da3ac2420aec9a850926e97ec57c9e01cea1bfe460ca6cc2a7045c190e1e6ed.jpg|30|/希望の発芽/きぼうのはつが|/光,地,植物
-I00077||||neosdb:///|neosdb:///|31|//|/
 T00001|0|0|0|neosdb:///c1b2da819ccb3c3655b9667bdf2a4ea11298a25f1cd1d215a82fa30ca2967e98.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|0|Light Trick Token/幻光トークン/げんこうとーくん|"Illusion, Light Insect/幻想,光,虫"
-T00002|1|?|?|neosdb:///c1b2da819ccb3c3655b9667bdf2a4ea11298a25f1cd1d215a82fa30ca2967e98.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|1|Ice Art Token/アイス・アート・トークン/あいす・あーと・とーくん|Ice/氷
+T00002|1|0|0|neosdb:///c1b2da819ccb3c3655b9667bdf2a4ea11298a25f1cd1d215a82fa30ca2967e98.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|1|Ice Art Token/アイス・アート・トークン/あいす・あーと・とーくん|Ice/氷
 T00003|0|0|0|neosdb:///c1b2da819ccb3c3655b9667bdf2a4ea11298a25f1cd1d215a82fa30ca2967e98.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|2|Monstrosity Token/怪異トークン/かいいとーくん|"Illusion, Curse/幻想,呪い"
 T00004|0|100|0|neosdb:///c1b2da819ccb3c3655b9667bdf2a4ea11298a25f1cd1d215a82fa30ca2967e98.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|3|Illusion Soldier/幻影兵士トークンA/げんえいへいしとーくん|"Light, Illusion, Warrior/光,幻想,戦士"
 T00005|0|100|0|neosdb:///c1b2da819ccb3c3655b9667bdf2a4ea11298a25f1cd1d215a82fa30ca2967e98.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|4|Illusion Soldier/幻影兵士トークンB/げんえいへいしとーくん|"Light, Illusion, Warrior/光,幻想,戦士"
