@@ -402,7 +402,7 @@ S00189|2|0|0|neosdb:///26aa061b93513cd3b2af6b6f72a065a65cac3ea0c7f835092e198926f
 S00190|1|0|0|neosdb:///26aa061b93513cd3b2af6b6f72a065a65cac3ea0c7f835092e198926fd0af2d9.webp|neosdb:///f4e08385d13efc97682f1040daa63ba5d2a617652cc7c4abb1326f0af6d0a96d.jpg|9|Spiritual Derangement/精神の撹乱/せいしんのかくらん|Illusion/幻想
 S00191|0|0|0|neosdb:///|neosdb:///f4e08385d13efc97682f1040daa63ba5d2a617652cc7c4abb1326f0af6d0a96d.jpg|10|Break of the earth/ブレイク・オブ・ジアース|Earth/地/重力
 S00192|0|0|0|neosdb:///|neosdb:///f4e08385d13efc97682f1040daa63ba5d2a617652cc7c4abb1326f0af6d0a96d.jpg|11|/ゼロ分岐/ぜろぶんき|-/-
-S00193|0|0|0|neosdb:///|neosdb:///f4e08385d13efc97682f1040daa63ba5d2a617652cc7c4abb1326f0af6d0a96d.jpg|12|/水の再生/みずのさいせい|Water/水
+S00193|1|0|0|neosdb:///|neosdb:///f4e08385d13efc97682f1040daa63ba5d2a617652cc7c4abb1326f0af6d0a96d.jpg|12|/水の再生/みずのさいせい|Water/水
 I00001|2|0|0|neosdb:///58d889cf11ecc77c64848b53d8af4bf6db18e67c78c569ddf896872023cf521f.webp|neosdb:///5211897f0ee2770a4da63b33466db2cf268e2e4f46d29f61b44b51c697c53d1c.jpg|0|Stone Circle/ストーン・サークル/すとーん・さーくる|"Earth, Rock, Structure/地,岩石,建造物"
 I00002|5|0|0|neosdb:///58d889cf11ecc77c64848b53d8af4bf6db18e67c78c569ddf896872023cf521f.webp|neosdb:///5211897f0ee2770a4da63b33466db2cf268e2e4f46d29f61b44b51c697c53d1c.jpg|1|Truth Tower/真理の塔/しんりのとう|"Earth, Structure/地,建造物"
 I00003|0|0|0|neosdb:///58d889cf11ecc77c64848b53d8af4bf6db18e67c78c569ddf896872023cf521f.webp|neosdb:///5211897f0ee2770a4da63b33466db2cf268e2e4f46d29f61b44b51c697c53d1c.jpg|2|Witch's Remedy/魔女の治療薬/まじょのちりょうやく|Medicine/薬
