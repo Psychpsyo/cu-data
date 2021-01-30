@@ -475,11 +475,11 @@ I00069|0|0|0|neosdb:///006ef6d2f9da546c9e2ddcc65782a3cc438f95fbf51149bd68ee5b6d1
 I00070|1|0|0|neosdb:///006ef6d2f9da546c9e2ddcc65782a3cc438f95fbf51149bd68ee5b6d162857da.webp|neosdb:///0136a3572cc8b17053135e73c6f3b3ad0074510fd74731c6ccdde354b64fe309.jpg|24|"Gran, Dragon Slayer/破竜魔剣グラム/はりゅうまけんぐらむ"|"Dark, Sword, Myth/闇,剣,神話"
 I00071|2|0|0|neosdb:///006ef6d2f9da546c9e2ddcc65782a3cc438f95fbf51149bd68ee5b6d162857da.webp|neosdb:///0136a3572cc8b17053135e73c6f3b3ad0074510fd74731c6ccdde354b64fe309.jpg|25|Miracle Great Sword/奇跡の大剣/きせきのたいけん|"Illusion, Sword/幻想,剣"
 I00072|2|0|0|neosdb:///9726ea8806fbf9b4be35a0125eec641ad502be16855fd837ddaac3ed3aa66c46.webp|neosdb:///0136a3572cc8b17053135e73c6f3b3ad0074510fd74731c6ccdde354b64fe309.jpg|26|Nightmare Theatre/ナイトメア・シアター/ないとめあ・しあたー|Illusion, Ghost, Structure/幻想,死霊,建造物
-I00073|0|0|0|neosdb:///|neosdb:///0136a3572cc8b17053135e73c6f3b3ad0074510fd74731c6ccdde354b64fe309.jpg|27|/三枚の御札/さんまいのおふだ|/結界
-I00074|1|0|0|neosdb:///|neosdb:///0136a3572cc8b17053135e73c6f3b3ad0074510fd74731c6ccdde354b64fe309.jpg|28|/地獄の灯火/じごくのともしび|/闇,炎
-I00075|0|0|0|neosdb:///|neosdb:///0136a3572cc8b17053135e73c6f3b3ad0074510fd74731c6ccdde354b64fe309.jpg|29|/追憶の噴水/ついおくのふんすい|/水,幻想,建造物
-I00076|1|0|0|neosdb:///|neosdb:///0136a3572cc8b17053135e73c6f3b3ad0074510fd74731c6ccdde354b64fe309.jpg|30|/希望の発芽/きぼうのはつが|/光,地,植物
-I00077|0|0|0|neosdb:///|neosdb:///0136a3572cc8b17053135e73c6f3b3ad0074510fd74731c6ccdde354b64fe309.jpg|31|/氷の花園/こおりのはなぞの|/氷,植物,建造物
+I00073|0|0|0|neosdb:///9726ea8806fbf9b4be35a0125eec641ad502be16855fd837ddaac3ed3aa66c46.webp|neosdb:///0136a3572cc8b17053135e73c6f3b3ad0074510fd74731c6ccdde354b64fe309.jpg|27|/三枚の御札/さんまいのおふだ|/結界
+I00074|1|0|0|neosdb:///9726ea8806fbf9b4be35a0125eec641ad502be16855fd837ddaac3ed3aa66c46.webp|neosdb:///0136a3572cc8b17053135e73c6f3b3ad0074510fd74731c6ccdde354b64fe309.jpg|28|/地獄の灯火/じごくのともしび|/闇,炎
+I00075|0|0|0|neosdb:///9726ea8806fbf9b4be35a0125eec641ad502be16855fd837ddaac3ed3aa66c46.webp|neosdb:///0136a3572cc8b17053135e73c6f3b3ad0074510fd74731c6ccdde354b64fe309.jpg|29|/追憶の噴水/ついおくのふんすい|/水,幻想,建造物
+I00076|1|0|0|neosdb:///9726ea8806fbf9b4be35a0125eec641ad502be16855fd837ddaac3ed3aa66c46.webp|neosdb:///0136a3572cc8b17053135e73c6f3b3ad0074510fd74731c6ccdde354b64fe309.jpg|30|/希望の発芽/きぼうのはつが|/光,地,植物
+I00077|0|0|0|neosdb:///9726ea8806fbf9b4be35a0125eec641ad502be16855fd837ddaac3ed3aa66c46.webp|neosdb:///0136a3572cc8b17053135e73c6f3b3ad0074510fd74731c6ccdde354b64fe309.jpg|31|/氷の花園/こおりのはなぞの|/氷,植物,建造物
 T00001|0|0|0|neosdb:///682aa45269f3783c06bb8325f86d137b382b655867ad4d0bd2832922786c3eb3.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|0|Light Trick Token/幻光トークン/げんこうとーくん|"Illusion, Light Insect/幻想,光,虫"
 T00002|1|0|0|neosdb:///682aa45269f3783c06bb8325f86d137b382b655867ad4d0bd2832922786c3eb3.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|1|Ice Art Token/アイス・アート・トークン/あいす・あーと・とーくん|Ice/氷
 T00003|0|0|0|neosdb:///682aa45269f3783c06bb8325f86d137b382b655867ad4d0bd2832922786c3eb3.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|2|Monstrosity Token/怪異トークン/かいいとーくん|"Illusion, Curse/幻想,呪い"
