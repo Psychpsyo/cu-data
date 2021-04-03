@@ -491,7 +491,7 @@ I00078|0|0|0|neosdb:///c8171a1c04c061d8fa61eb4226ed54c3b094b8c529613f8fc0188a80a
 I00079|5|0|0|neosdb:///c8171a1c04c061d8fa61eb4226ed54c3b094b8c529613f8fc0188a80ac538590.webp|neosdb:///1153b4b60d05e9a9005d34f4f1562121a5ad2c733d06c6ecbe94ed30296d7e34.jpg|33|/守護精の大盾/しゅごせいのおおたて|/光,盾
 I00080|0|0|0|neosdb:///c8171a1c04c061d8fa61eb4226ed54c3b094b8c529613f8fc0188a80ac538590.webp|neosdb:///1153b4b60d05e9a9005d34f4f1562121a5ad2c733d06c6ecbe94ed30296d7e34.jpg|34|/龍仙丸/りゅうせんがん|/幻想,ドラゴン,薬
 I00081|0|0|0|neosdb:///c8171a1c04c061d8fa61eb4226ed54c3b094b8c529613f8fc0188a80ac538590.webp|neosdb:///1153b4b60d05e9a9005d34f4f1562121a5ad2c733d06c6ecbe94ed30296d7e34.jpg|35|/パラレルゲート/ぱられるげーと|/幻想,建造物
-I00082|0|0|0|neosdb:///|neosdb:///1153b4b60d05e9a9005d34f4f1562121a5ad2c733d06c6ecbe94ed30296d7e34.jpg|36|/変心の鏡/へんしんのかがみ|/幻想,光
+I00082|1|0|0|neosdb:///|neosdb:///1153b4b60d05e9a9005d34f4f1562121a5ad2c733d06c6ecbe94ed30296d7e34.jpg|36|/変心の鏡/へんしんのかがみ|/幻想,光
 T00001|0|0|0|neosdb:///c1281557eafd84dabf9786a2af6347d87ef2d4a166d38afa3492b6804302ae85.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|0|Light Trick Token/幻光トークン/げんこうとーくん|"Illusion, Light Insect/幻想,光,虫"
 T00002|1|0|0|neosdb:///c1281557eafd84dabf9786a2af6347d87ef2d4a166d38afa3492b6804302ae85.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|1|Ice Art Token/アイス・アート・トークン/あいす・あーと・とーくん|Ice/氷
 T00003|0|0|0|neosdb:///c1281557eafd84dabf9786a2af6347d87ef2d4a166d38afa3492b6804302ae85.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|2|Monstrosity Token/怪異トークン/かいいとーくん|"Illusion, Curse/幻想,呪い"
