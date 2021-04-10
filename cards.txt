@@ -215,7 +215,7 @@ U00214|2|100|200|neosdb:///f8a89aacb8e4683c48a2301084810f272199fe9e3e9c4e38cde88
 U00215|0|0|0|neosdb:///f8a89aacb8e4683c48a2301084810f272199fe9e3e9c4e38cde88da2d596b885.jpg|neosdb:///d86bb8904e0e7c51ca8e92702d5a64c4a81f5d6dd58ac6145b30c0e285c43282.jpg|34|/竜寓の乙姫/りゅうぐうのおとひめ|/幻想,水,ドラゴン
 U00216|1|50|0|neosdb:///f8a89aacb8e4683c48a2301084810f272199fe9e3e9c4e38cde88da2d596b885.jpg|neosdb:///d86bb8904e0e7c51ca8e92702d5a64c4a81f5d6dd58ac6145b30c0e285c43282.jpg|35|/導きの光虫/みちびきのひかりむし|/光,虫
 U00217|4|400|400|neosdb:///f8a89aacb8e4683c48a2301084810f272199fe9e3e9c4e38cde88da2d596b885.jpg|neosdb:///d86bb8904e0e7c51ca8e92702d5a64c4a81f5d6dd58ac6145b30c0e285c43282.jpg|36|/闇に染まりし死の天使/やみにそまりししのてんし|/闇,光,悪鬼,天使
-U00218|3|100|200|neosdb:///f8a89aacb8e4683c48a2301084810f272199fe9e3e9c4e38cde88da2d596b885.jpg|neosdb:///d86bb8904e0e7c51ca8e92702d5a64c4a81f5d6dd58ac6145b30c0e285c43282.jpg|37|/深緑の大賢者/しんりょくのだいけんじゃ|/光,地,植物,魔術師
+U00218|2|100|200|neosdb:///f8a89aacb8e4683c48a2301084810f272199fe9e3e9c4e38cde88da2d596b885.jpg|neosdb:///d86bb8904e0e7c51ca8e92702d5a64c4a81f5d6dd58ac6145b30c0e285c43282.jpg|37|/深緑の大賢者/しんりょくのだいけんじゃ|/光,地,植物,魔術師
 S00001|0|0|0|neosdb:///52fd143d61ade9eee6569cfb065e7200a467334248c375d6ae83ceb1ac0ccf66.webp|neosdb:///938762e3f2f14044a50a461215f55fe7d2925300a5af09064687bd67d5dcd799.jpg|0|Arson/不審火/ふしんび|Fire/炎
 S00002|0|0|0|neosdb:///52fd143d61ade9eee6569cfb065e7200a467334248c375d6ae83ceb1ac0ccf66.webp|neosdb:///938762e3f2f14044a50a461215f55fe7d2925300a5af09064687bd67d5dcd799.jpg|1|Valhalla's Blessing/ヴァルハラの祝福/?ぁるはらのしゅくふく|Light/光
 S00003|1|0|0|neosdb:///52fd143d61ade9eee6569cfb065e7200a467334248c375d6ae83ceb1ac0ccf66.webp|neosdb:///938762e3f2f14044a50a461215f55fe7d2925300a5af09064687bd67d5dcd799.jpg|2|Marine Snow Sacrifice/マリンスノー・サクリファイス/まりんすのー・さくりふぁいす|Water/水
