@@ -413,7 +413,7 @@ S00187|0|0|0|neosdb:///a6aac78edbb42d55861fe5d73f00cd59aa0ccf26e51c04e4b632fd526
 S00188|7|0|0|neosdb:///a6aac78edbb42d55861fe5d73f00cd59aa0ccf26e51c04e4b632fd526662f891.webp|neosdb:///8b3b69c3db9078287d6f09d1b309ba36d2f1dc9380fff337b031f2d3e2a70fce.jpg|7|Fever Time/フィーバータイム/ふぃーばーたいむ|-/-
 S00189|2|0|0|neosdb:///a6aac78edbb42d55861fe5d73f00cd59aa0ccf26e51c04e4b632fd526662f891.webp|neosdb:///8b3b69c3db9078287d6f09d1b309ba36d2f1dc9380fff337b031f2d3e2a70fce.jpg|8|Collapse Curse/崩壊の呪い/ほうかいののろい|Curse/呪い
 S00190|1|0|0|neosdb:///a6aac78edbb42d55861fe5d73f00cd59aa0ccf26e51c04e4b632fd526662f891.webp|neosdb:///8b3b69c3db9078287d6f09d1b309ba36d2f1dc9380fff337b031f2d3e2a70fce.jpg|9|Spiritual Derangement/精神の撹乱/せいしんのかくらん|Illusion/幻想
-S00191|0|0|0|neosdb:///a6aac78edbb42d55861fe5d73f00cd59aa0ccf26e51c04e4b632fd526662f891.webp|neosdb:///8b3b69c3db9078287d6f09d1b309ba36d2f1dc9380fff337b031f2d3e2a70fce.jpg|10|Shattering Grounds/ブレイク・オブ・ジアース/ぶれいく・おぶ・じあーす|Earth/地/重力
+S00191|0|0|0|neosdb:///a6aac78edbb42d55861fe5d73f00cd59aa0ccf26e51c04e4b632fd526662f891.webp|neosdb:///8b3b69c3db9078287d6f09d1b309ba36d2f1dc9380fff337b031f2d3e2a70fce.jpg|10|Break of the Earth/ブレイク・オブ・ジアース/ぶれいく・おぶ・じあーす|Earth/地/重力
 S00192|0|0|0|neosdb:///a6aac78edbb42d55861fe5d73f00cd59aa0ccf26e51c04e4b632fd526662f891.webp|neosdb:///8b3b69c3db9078287d6f09d1b309ba36d2f1dc9380fff337b031f2d3e2a70fce.jpg|11|/ゼロ分岐/ぜろぶんき|-/-
 S00193|1|0|0|neosdb:///a6aac78edbb42d55861fe5d73f00cd59aa0ccf26e51c04e4b632fd526662f891.webp|neosdb:///8b3b69c3db9078287d6f09d1b309ba36d2f1dc9380fff337b031f2d3e2a70fce.jpg|12|/水の再生/みずのさいせい|Water/水
 S00194|1|0|0|neosdb:///a6aac78edbb42d55861fe5d73f00cd59aa0ccf26e51c04e4b632fd526662f891.webp|neosdb:///8b3b69c3db9078287d6f09d1b309ba36d2f1dc9380fff337b031f2d3e2a70fce.jpg|13|/連鎖する破壊/れんさするはかい|-/-
