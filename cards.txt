@@ -223,7 +223,9 @@ U00222|10|500|1000|neosdb:///acf9bbb0fe70cf660ad8043065242cb07be4110cbcb334c0aad
 U00223|10|1000|1000|neosdb:///acf9bbb0fe70cf660ad8043065242cb07be4110cbcb334c0aad3089e37fea0a2.webp|neosdb:///bbde66e420fd4ec1420b03722b283e63f4180be6300ac6e5175e766a726d70f3.jpg|42|/高嶺に咲く花ハイランドラ/たかねにさくはなはいらんどら|/光,植物
 U00224|6|600|600|neosdb:///acf9bbb0fe70cf660ad8043065242cb07be4110cbcb334c0aad3089e37fea0a2.webp|neosdb:///bbde66e420fd4ec1420b03722b283e63f4180be6300ac6e5175e766a726d70f3.jpg|43|/武装機龍レーザー・アーマー/ぶそうきりゅうれーざー・あーまー|/光,機械,ドラゴン
 U00225|1|100|100|neosdb:///acf9bbb0fe70cf660ad8043065242cb07be4110cbcb334c0aad3089e37fea0a2.webp|neosdb:///bbde66e420fd4ec1420b03722b283e63f4180be6300ac6e5175e766a726d70f3.jpg|44|/ジャッカルの神官/じゃっかるのしんかん|/幻想,獣,魔術師,死霊
-U00226|0|0|0|neosdb:///9ff2085233662364a339fa4b27b8e43ecfc8b8ce490d2bc69ebeae1ffc0ac15d.webp|neosdb:///1928f1570989a32d194e21356556c20cda5b0c67c6c48c19a1d7b9f46bb783e7.jpg|0|/霜花の天使ラチカ/しもはなのてんしらちか|/氷,天使,植物
+U00226|0|0|0|neosdb:///9ff2085233662364a339fa4b27b8e43ecfc8b8ce490d2bc69ebeae1ffc0ac15d.webp|neosdb:///1cc8a400700bc60a5485ce3855b650629d8eb9a72b18ef5ec5ea2d0302950cc8.jpg|0|/霜花の天使ラチカ/しもはなのてんしらちか|/氷,天使,植物
+U00227|3|300|200|neosdb:///|neosdb:///1cc8a400700bc60a5485ce3855b650629d8eb9a72b18ef5ec5ea2d0302950cc8.jpg|1|/デザスター・ワーム/でざすたー・わーむ|/闇,虫,呪い
+U00228|3|0|400|neosdb:///|neosdb:///1cc8a400700bc60a5485ce3855b650629d8eb9a72b18ef5ec5ea2d0302950cc8.jpg|2|/デザスター・コクーン/でざすたー・こくーん|/闇,虫,呪い
 S00001|0|0|0|neosdb:///c8f3ee03b202c03e37e14f363b1950665f68654b7d7819a3a3579f4fb8c207ad.webp|neosdb:///938762e3f2f14044a50a461215f55fe7d2925300a5af09064687bd67d5dcd799.jpg|0|Arson/不審火/ふしんび|Fire/炎
 S00002|0|0|0|neosdb:///c8f3ee03b202c03e37e14f363b1950665f68654b7d7819a3a3579f4fb8c207ad.webp|neosdb:///938762e3f2f14044a50a461215f55fe7d2925300a5af09064687bd67d5dcd799.jpg|1|Valhalla's Blessing/ヴァルハラの祝福/?ぁるはらのしゅくふく|Light/光
 S00003|1|0|0|neosdb:///c8f3ee03b202c03e37e14f363b1950665f68654b7d7819a3a3579f4fb8c207ad.webp|neosdb:///938762e3f2f14044a50a461215f55fe7d2925300a5af09064687bd67d5dcd799.jpg|2|Marine Snow Sacrifice/マリンスノー・サクリファイス/まりんすのー・さくりふぁいす|Water/水
