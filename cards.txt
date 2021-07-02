@@ -518,8 +518,8 @@ I00087|0|0|0|neosdb:///57c643def2364da23d4544bcace62cd4f1368c745f6c065c0fc44d5ab
 I00088|0|0|0|neosdb:///57c643def2364da23d4544bcace62cd4f1368c745f6c065c0fc44d5abb48d1d9.webp|neosdb:///2923ae7104d3f59e1b03fce43731af774c2cf11d277f568696c3529bdc7f0391.jpg|42|/鎮魂花/ちんこんか|/植物
 I00089|2|0|0|neosdb:///57c643def2364da23d4544bcace62cd4f1368c745f6c065c0fc44d5abb48d1d9.webp|neosdb:///2923ae7104d3f59e1b03fce43731af774c2cf11d277f568696c3529bdc7f0391.jpg|43|/天界の応援旗/てんかいのおうえんか|/光
 I00090|0|0|0|neosdb:///57c643def2364da23d4544bcace62cd4f1368c745f6c065c0fc44d5abb48d1d9.webp|neosdb:///|44|//|/
-I00091|0|0|0|neosdb:///7f70b81f4f877dc5d87456648dc02740cd13b2f1d18ea35ae94bfc6a63f82a89.webp|neosdb:///|0|//|/
-I00092|0|0|0|neosdb:///7f70b81f4f877dc5d87456648dc02740cd13b2f1d18ea35ae94bfc6a63f82a89.webp|neosdb:///|1|//|/
+I00091|1|0|0|neosdb:///7f70b81f4f877dc5d87456648dc02740cd13b2f1d18ea35ae94bfc6a63f82a89.webp|neosdb:///|0|//|/
+I00092|4|0|0|neosdb:///7f70b81f4f877dc5d87456648dc02740cd13b2f1d18ea35ae94bfc6a63f82a89.webp|neosdb:///|1|//|/
 T00001|0|0|0|neosdb:///af174737a1710d070310ef1db0797d544642a79f2728ae260c1962e88d7bfad8.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|0|Light Trick Token/幻光トークン/げんこうとーくん|"Illusion, Light Insect/幻想,光,虫"
 T00002|1|0|0|neosdb:///af174737a1710d070310ef1db0797d544642a79f2728ae260c1962e88d7bfad8.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|1|Ice Art Token/アイス・アート・トークン/あいす・あーと・とーくん|Ice/氷
 T00003|0|0|0|neosdb:///af174737a1710d070310ef1db0797d544642a79f2728ae260c1962e88d7bfad8.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|2|Monstrosity Token/怪異トークン/かいいとーくん|"Illusion, Curse/幻想,呪い"
