@@ -223,11 +223,12 @@ U00222|10|500|1000|neosdb:///b77f2092a2c59393aae49d54e27fe34638a4fc15a6c363d08a3
 U00223|10|1000|1000|neosdb:///b77f2092a2c59393aae49d54e27fe34638a4fc15a6c363d08a37bfa354ed8dff.webp|neosdb:///bbde66e420fd4ec1420b03722b283e63f4180be6300ac6e5175e766a726d70f3.jpg|42|/高嶺に咲く花ハイランドラ/たかねにさくはなはいらんどら|/光,植物
 U00224|6|600|600|neosdb:///b77f2092a2c59393aae49d54e27fe34638a4fc15a6c363d08a37bfa354ed8dff.webp|neosdb:///bbde66e420fd4ec1420b03722b283e63f4180be6300ac6e5175e766a726d70f3.jpg|43|/武装機龍レーザー・アーマー/ぶそうきりゅうれーざー・あーまー|/光,機械,ドラゴン
 U00225|1|100|100|neosdb:///b77f2092a2c59393aae49d54e27fe34638a4fc15a6c363d08a37bfa354ed8dff.webp|neosdb:///bbde66e420fd4ec1420b03722b283e63f4180be6300ac6e5175e766a726d70f3.jpg|44|/ジャッカルの神官/じゃっかるのしんかん|/幻想,獣,魔術師,死霊
-U00226|0|0|0|neosdb:///9621bbfb4b583221baff834b12b74e1bcfefb959235bffcd8c65738175263d5c.webp|neosdb:///1f5376efdb215dab44b5617f7f442fab3c8deea4811b06fe2144d0e9922f7c06.jpg|0|/霜花の天使ラチカ/しもはなのてんしらちか|/氷,天使,植物
-U00227|3|300|200|neosdb:///9621bbfb4b583221baff834b12b74e1bcfefb959235bffcd8c65738175263d5c.webp|neosdb:///1f5376efdb215dab44b5617f7f442fab3c8deea4811b06fe2144d0e9922f7c06.jpg|1|/デザスター・ワーム/でざすたー・わーむ|/闇,虫,呪い
-U00228|5|0|400|neosdb:///9621bbfb4b583221baff834b12b74e1bcfefb959235bffcd8c65738175263d5c.webp|neosdb:///1f5376efdb215dab44b5617f7f442fab3c8deea4811b06fe2144d0e9922f7c06.jpg|2|/デザスター・コクーン/でざすたー・こくーん|/闇,虫,呪い
-U00229|2|200|100|neosdb:///9621bbfb4b583221baff834b12b74e1bcfefb959235bffcd8c65738175263d5c.webp|neosdb:///1f5376efdb215dab44b5617f7f442fab3c8deea4811b06fe2144d0e9922f7c06.jpg|3|/氷翼のフレスヴェルグ/ひょうよくのふれすヴぇるぐ|/氷,風,鳥,呪い
-U00230|11|0|800|neosdb:///9621bbfb4b583221baff834b12b74e1bcfefb959235bffcd8c65738175263d5c.webp|neosdb:///1f5376efdb215dab44b5617f7f442fab3c8deea4811b06fe2144d0e9922f7c06.jpg|4|/幻鏡のマスタードール/げんきょうのますたーどーる|/幻想,人形,神話
+U00226|0|0|0|neosdb:///9621bbfb4b583221baff834b12b74e1bcfefb959235bffcd8c65738175263d5c.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|0|/霜花の天使ラチカ/しもはなのてんしらちか|/氷,天使,植物
+U00227|3|300|200|neosdb:///9621bbfb4b583221baff834b12b74e1bcfefb959235bffcd8c65738175263d5c.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|1|/デザスター・ワーム/でざすたー・わーむ|/闇,虫,呪い
+U00228|5|0|400|neosdb:///9621bbfb4b583221baff834b12b74e1bcfefb959235bffcd8c65738175263d5c.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|2|/デザスター・コクーン/でざすたー・こくーん|/闇,虫,呪い
+U00229|2|200|100|neosdb:///9621bbfb4b583221baff834b12b74e1bcfefb959235bffcd8c65738175263d5c.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|3|/氷翼のフレスヴェルグ/ひょうよくのふれすヴぇるぐ|/氷,風,鳥,呪い
+U00230|11|0|800|neosdb:///9621bbfb4b583221baff834b12b74e1bcfefb959235bffcd8c65738175263d5c.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|4|/幻鏡のマスタードール/げんきょうのますたーどーる|/幻想,人形,神話
+U00231|3|300|200|neosdb:///|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|5|/闇夜のドール・ナイト/やみよのどーる・ないと|/闇,戦士,死霊,人形
 S00001|0|0|0|neosdb:///c8f3ee03b202c03e37e14f363b1950665f68654b7d7819a3a3579f4fb8c207ad.webp|neosdb:///938762e3f2f14044a50a461215f55fe7d2925300a5af09064687bd67d5dcd799.jpg|0|Arson/不審火/ふしんび|Fire/炎
 S00002|0|0|0|neosdb:///c8f3ee03b202c03e37e14f363b1950665f68654b7d7819a3a3579f4fb8c207ad.webp|neosdb:///938762e3f2f14044a50a461215f55fe7d2925300a5af09064687bd67d5dcd799.jpg|1|Valhalla's Blessing/ヴァルハラの祝福/?ぁるはらのしゅくふく|Light/光
 S00003|1|0|0|neosdb:///c8f3ee03b202c03e37e14f363b1950665f68654b7d7819a3a3579f4fb8c207ad.webp|neosdb:///938762e3f2f14044a50a461215f55fe7d2925300a5af09064687bd67d5dcd799.jpg|2|Marine Snow Sacrifice/マリンスノー・サクリファイス/まりんすのー・さくりふぁいす|Water/水
@@ -518,8 +519,9 @@ I00087|0|0|0|neosdb:///57c643def2364da23d4544bcace62cd4f1368c745f6c065c0fc44d5ab
 I00088|0|0|0|neosdb:///57c643def2364da23d4544bcace62cd4f1368c745f6c065c0fc44d5abb48d1d9.webp|neosdb:///a45b0a3cebfa9d678f38d27c5b17036a1b21e4bfc5a6ef057ba720232986a419.jpg|42|/鎮魂花/ちんこんか|/植物
 I00089|2|0|0|neosdb:///57c643def2364da23d4544bcace62cd4f1368c745f6c065c0fc44d5abb48d1d9.webp|neosdb:///a45b0a3cebfa9d678f38d27c5b17036a1b21e4bfc5a6ef057ba720232986a419.jpg|43|/天界の応援旗/てんかいのおうえんか|/光
 I00090|0|0|0|neosdb:///57c643def2364da23d4544bcace62cd4f1368c745f6c065c0fc44d5abb48d1d9.webp|neosdb:///a45b0a3cebfa9d678f38d27c5b17036a1b21e4bfc5a6ef057ba720232986a419.jpg|44|/地獄の傀儡糸/じごくのくぐついと|/人形
-I00091|1|0|0|neosdb:///7f70b81f4f877dc5d87456648dc02740cd13b2f1d18ea35ae94bfc6a63f82a89.webp|neosdb:///0e72f83e49d0b317c8c44e45fbef3a62ef5b0dc7c916c30acb078b764e79ce44.jpg|0|/心影幻鏡/しんえいげんきょう|/光
-I00092|4|0|0|neosdb:///7f70b81f4f877dc5d87456648dc02740cd13b2f1d18ea35ae94bfc6a63f82a89.webp|neosdb:///0e72f83e49d0b317c8c44e45fbef3a62ef5b0dc7c916c30acb078b764e79ce44.jpg|1|/幻鏡の深淵/げんきょうのしんえん|/幻想
+I00091|1|0|0|neosdb:///7f70b81f4f877dc5d87456648dc02740cd13b2f1d18ea35ae94bfc6a63f82a89.webp|neosdb:///45b02592a88f85b8a72e991aa85249b586a11c49a8adf03ca98d963af4fcc8aa.jpg|0|/心影幻鏡/しんえいげんきょう|/光
+I00092|4|0|0|neosdb:///7f70b81f4f877dc5d87456648dc02740cd13b2f1d18ea35ae94bfc6a63f82a89.webp|neosdb:///45b02592a88f85b8a72e991aa85249b586a11c49a8adf03ca98d963af4fcc8aa.jpg|1|/幻鏡の深淵/げんきょうのしんえん|/幻想
+I00093|0|0|0|neosdb:///|neosdb:///45b02592a88f85b8a72e991aa85249b586a11c49a8adf03ca98d963af4fcc8aa.jpg|2|/旅人の街道/たびびとのかい|/建造物
 T00001|0|0|0|neosdb:///af174737a1710d070310ef1db0797d544642a79f2728ae260c1962e88d7bfad8.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|0|Light Trick Token/幻光トークン/げんこうとーくん|"Illusion, Light Insect/幻想,光,虫"
 T00002|1|0|0|neosdb:///af174737a1710d070310ef1db0797d544642a79f2728ae260c1962e88d7bfad8.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|1|Ice Art Token/アイス・アート・トークン/あいす・あーと・とーくん|Ice/氷
 T00003|0|0|0|neosdb:///af174737a1710d070310ef1db0797d544642a79f2728ae260c1962e88d7bfad8.webp|neosdb:///1d94d88ef27ed46ab2913f8ae89a2967f1ef59189c727bfa8c285dc00db13e2a.webp|2|Monstrosity Token/怪異トークン/かいいとーくん|"Illusion, Curse/幻想,呪い"
