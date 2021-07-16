@@ -223,12 +223,14 @@ U00222|10|500|1000|neosdb:///b77f2092a2c59393aae49d54e27fe34638a4fc15a6c363d08a3
 U00223|10|1000|1000|neosdb:///b77f2092a2c59393aae49d54e27fe34638a4fc15a6c363d08a37bfa354ed8dff.webp|neosdb:///bbde66e420fd4ec1420b03722b283e63f4180be6300ac6e5175e766a726d70f3.jpg|42|/高嶺に咲く花ハイランドラ/たかねにさくはなはいらんどら|/光,植物
 U00224|6|600|600|neosdb:///b77f2092a2c59393aae49d54e27fe34638a4fc15a6c363d08a37bfa354ed8dff.webp|neosdb:///bbde66e420fd4ec1420b03722b283e63f4180be6300ac6e5175e766a726d70f3.jpg|43|/武装機龍レーザー・アーマー/ぶそうきりゅうれーざー・あーまー|/光,機械,ドラゴン
 U00225|1|100|100|neosdb:///b77f2092a2c59393aae49d54e27fe34638a4fc15a6c363d08a37bfa354ed8dff.webp|neosdb:///bbde66e420fd4ec1420b03722b283e63f4180be6300ac6e5175e766a726d70f3.jpg|44|/ジャッカルの神官/じゃっかるのしんかん|/幻想,獣,魔術師,死霊
-U00226|0|0|0|neosdb:///a948b7fa87c3d6ec622464c4967e69ab64dfd794aad9f12a813b4c0eb9dc78a3.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|0|/霜花の天使ラチカ/しもはなのてんしらちか|/氷,天使,植物
-U00227|3|300|200|neosdb:///a948b7fa87c3d6ec622464c4967e69ab64dfd794aad9f12a813b4c0eb9dc78a3.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|1|/デザスター・ワーム/でざすたー・わーむ|/闇,虫,呪い
-U00228|5|0|400|neosdb:///a948b7fa87c3d6ec622464c4967e69ab64dfd794aad9f12a813b4c0eb9dc78a3.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|2|/デザスター・コクーン/でざすたー・こくーん|/闇,虫,呪い
-U00229|2|200|100|neosdb:///a948b7fa87c3d6ec622464c4967e69ab64dfd794aad9f12a813b4c0eb9dc78a3.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|3|/氷翼のフレスヴェルグ/ひょうよくのふれすヴぇるぐ|/氷,風,鳥,呪い
-U00230|11|0|800|neosdb:///a948b7fa87c3d6ec622464c4967e69ab64dfd794aad9f12a813b4c0eb9dc78a3.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|4|/幻鏡のマスタードール/げんきょうのますたーどーる|/幻想,人形,神話
-U00231|3|300|200|neosdb:///a948b7fa87c3d6ec622464c4967e69ab64dfd794aad9f12a813b4c0eb9dc78a3.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|5|/闇夜のドール・ナイト/やみよのどーる・ないと|/闇,戦士,死霊,人形
+U00226|0|0|0|neosdb:///22df79b8b6cd2c82fd5327624327cad3bcf010cca09551316f28fd2b643bc37d.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|0|/霜花の天使ラチカ/しもはなのてんしらちか|/氷,天使,植物
+U00227|3|300|200|neosdb:///22df79b8b6cd2c82fd5327624327cad3bcf010cca09551316f28fd2b643bc37d.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|1|/デザスター・ワーム/でざすたー・わーむ|/闇,虫,呪い
+U00228|5|0|400|neosdb:///22df79b8b6cd2c82fd5327624327cad3bcf010cca09551316f28fd2b643bc37d.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|2|/デザスター・コクーン/でざすたー・こくーん|/闇,虫,呪い
+U00229|2|200|100|neosdb:///22df79b8b6cd2c82fd5327624327cad3bcf010cca09551316f28fd2b643bc37d.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|3|/氷翼のフレスヴェルグ/ひょうよくのふれすヴぇるぐ|/氷,風,鳥,呪い
+U00230|11|0|800|neosdb:///22df79b8b6cd2c82fd5327624327cad3bcf010cca09551316f28fd2b643bc37d.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|4|/幻鏡のマスタードール/げんきょうのますたーどーる|/幻想,人形,神話
+U00231|3|300|200|neosdb:///22df79b8b6cd2c82fd5327624327cad3bcf010cca09551316f28fd2b643bc37d.webp|neosdb:///bc51fb9830e86425cb81fc61b643a2731c860f8a800bdabb8a87442e51cece29.jpg|5|/闇夜のドール・ナイト/やみよのどーる・ないと|/闇,戦士,死霊,人形
+U00232|2|200|0|neosdb:///22df79b8b6cd2c82fd5327624327cad3bcf010cca09551316f28fd2b643bc37d.webp|neosdb:///|6|//|/
+U00233|4|600|0|neosdb:///22df79b8b6cd2c82fd5327624327cad3bcf010cca09551316f28fd2b643bc37d.webp|neosdb:///|7|//|/
 S00001|0|0|0|neosdb:///c8f3ee03b202c03e37e14f363b1950665f68654b7d7819a3a3579f4fb8c207ad.webp|neosdb:///938762e3f2f14044a50a461215f55fe7d2925300a5af09064687bd67d5dcd799.jpg|0|Arson/不審火/ふしんび|Fire/炎
 S00002|0|0|0|neosdb:///c8f3ee03b202c03e37e14f363b1950665f68654b7d7819a3a3579f4fb8c207ad.webp|neosdb:///938762e3f2f14044a50a461215f55fe7d2925300a5af09064687bd67d5dcd799.jpg|1|Valhalla's Blessing/ヴァルハラの祝福/?ぁるはらのしゅくふく|Light/光
 S00003|1|0|0|neosdb:///c8f3ee03b202c03e37e14f363b1950665f68654b7d7819a3a3579f4fb8c207ad.webp|neosdb:///938762e3f2f14044a50a461215f55fe7d2925300a5af09064687bd67d5dcd799.jpg|2|Marine Snow Sacrifice/マリンスノー・サクリファイス/まりんすのー・さくりふぁいす|Water/水
