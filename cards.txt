@@ -236,6 +236,7 @@ U00235|7|0|500|neosdb:///a032b6606772150ae79c926df79931a075f436607506fa9b4eca345
 U00236|2|200|100|neosdb:///a032b6606772150ae79c926df79931a075f436607506fa9b4eca345c1fbad73a.webp|neosdb:///7a63e3456a6a0ac932e812b63218bcaa0437b6a424ec4ef12bafd74daa6bd174.jpg|10|/蛇竜山の侍女/じゃりゅうざんのじじょ|/炎,ドラゴン,侍
 U00237|6|700|500|neosdb:///a032b6606772150ae79c926df79931a075f436607506fa9b4eca345c1fbad73a.webp|neosdb:///7a63e3456a6a0ac932e812b63218bcaa0437b6a424ec4ef12bafd74daa6bd174.jpg|11|/潜航のイルミネッシー/せんこうのいるみねっしー|/光,水,魚,機械
 U00238|4|0|400|neosdb:///a032b6606772150ae79c926df79931a075f436607506fa9b4eca345c1fbad73a.webp|neosdb:///7a63e3456a6a0ac932e812b63218bcaa0437b6a424ec4ef12bafd74daa6bd174.jpg|12|/慈愛の天使エール/じあいのてんしえーる|/光,天使,魔術師
+U00239|4|0|400|neosdb:///a032b6606772150ae79c926df79931a075f436607506fa9b4eca345c1fbad73a.webp|neosdb:///|13|//|/
 S00001|0|0|0|neosdb:///7d6c62a7ce7fd1a1ec6fe70bdf23a81be3d7d0a63c8ba54fba6c97fd32e1f35b.webp|neosdb:///0a8eb794ac449d902dfccb2c70883a237d27a4ee70324ffdeea25e41a402435f.jpg|0|Arson/不審火/ふしんび|Fire/炎
 S00002|0|0|0|neosdb:///7d6c62a7ce7fd1a1ec6fe70bdf23a81be3d7d0a63c8ba54fba6c97fd32e1f35b.webp|neosdb:///0a8eb794ac449d902dfccb2c70883a237d27a4ee70324ffdeea25e41a402435f.jpg|1|Valhalla's Blessing/ヴァルハラの祝福/ゔぁるはらのしゅくふく|Light/光
 S00003|1|0|0|neosdb:///7d6c62a7ce7fd1a1ec6fe70bdf23a81be3d7d0a63c8ba54fba6c97fd32e1f35b.webp|neosdb:///0a8eb794ac449d902dfccb2c70883a237d27a4ee70324ffdeea25e41a402435f.jpg|2|Marine Snow Sacrifice/マリンスノー・サクリファイス/まりんすのー・さくりふぁいす|Water/水
@@ -439,6 +440,7 @@ S00200|0|0|0|neosdb:///0307f8c7c9a4bc9693e7346cd5645d1c82a2d8e95411b373bee2c3a42
 S00201|1|0|0|neosdb:///0307f8c7c9a4bc9693e7346cd5645d1c82a2d8e95411b373bee2c3a421559a22.webp|neosdb:///331fa796ad76a6ff24a2f7aa2fb4e69314127e2083f9577efec37ac4912e1ac9.jpg|20|/ブレイク＆ドロー/ぶれいくあんどどろー|-/-
 S00202|1|0|0|neosdb:///0307f8c7c9a4bc9693e7346cd5645d1c82a2d8e95411b373bee2c3a421559a22.webp|neosdb:///331fa796ad76a6ff24a2f7aa2fb4e69314127e2083f9577efec37ac4912e1ac9.jpg|21|/呪縛からの解放/じゅばくからのかいほう|-/-
 S00203|1|0|0|neosdb:///0307f8c7c9a4bc9693e7346cd5645d1c82a2d8e95411b373bee2c3a421559a22.webp|neosdb:///331fa796ad76a6ff24a2f7aa2fb4e69314127e2083f9577efec37ac4912e1ac9.jpg|22|/一刀札断/いっとうさつだん|-/-
+S00204|1|0|0|neosdb:///0307f8c7c9a4bc9693e7346cd5645d1c82a2d8e95411b373bee2c3a421559a22.webp|neosdb:///|23|//|/
 I00001|2|0|0|neosdb:///f65129c478f4b95a126e44a9c328f9d034e963960b6fbf55d8fa490952448a00.webp|neosdb:///ea146732f51329e109d61c07d0745692969dac70f77c719b90634a522a164ea4.jpg|0|Stone Circle/ストーン・サークル/すとーん・さーくる|"Earth, Rock, Structure/地,岩石,建造物"
 I00002|5|0|0|neosdb:///f65129c478f4b95a126e44a9c328f9d034e963960b6fbf55d8fa490952448a00.webp|neosdb:///ea146732f51329e109d61c07d0745692969dac70f77c719b90634a522a164ea4.jpg|1|Truth Tower/真理の塔/しんりのとう|"Earth, Structure/地,建造物"
 I00003|0|0|0|neosdb:///f65129c478f4b95a126e44a9c328f9d034e963960b6fbf55d8fa490952448a00.webp|neosdb:///ea146732f51329e109d61c07d0745692969dac70f77c719b90634a522a164ea4.jpg|2|Witch's Remedy/魔女の治療薬/まじょのちりょうやく|Medicine/薬
