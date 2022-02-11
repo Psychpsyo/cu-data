@@ -246,7 +246,7 @@ U00245|7|650|500|neosdb:///c6cd75e6a0c744bbc589a496cecf102dcd98c1ec70b1f3e2099d2
 U00246|3|250|250|neosdb:///c6cd75e6a0c744bbc589a496cecf102dcd98c1ec70b1f3e2099d2b769f193d61.webp|neosdb:///ba061b70f323a27c06cbeb5c905ec2e184b61aeba10f287131e43e89624dbeb1.jpg|20|/海底の予言者 ラプラパス/かいていのよげんしゃ らぷらぱす|/水,悪鬼,PSI
 U00247|1|100|0|neosdb:///c6cd75e6a0c744bbc589a496cecf102dcd98c1ec70b1f3e2099d2b769f193d61.webp|neosdb:///ba061b70f323a27c06cbeb5c905ec2e184b61aeba10f287131e43e89624dbeb1.jpg|21|/明星の天使 ヴィーナ/みょうじょうのてんし ヴぃーな|/光,天使
 U00248|2|100|100|neosdb:///c6cd75e6a0c744bbc589a496cecf102dcd98c1ec70b1f3e2099d2b769f193d61.webp|neosdb:///ba061b70f323a27c06cbeb5c905ec2e184b61aeba10f287131e43e89624dbeb1.jpg|22|/トランペット・エンジェル/とらんぺっと・えんじぇる|/風,天使,植物,呪い
-U00249|6|0|600|neosdb:///|neosdb:///ba061b70f323a27c06cbeb5c905ec2e184b61aeba10f287131e43e89624dbeb1.jpg|23|/呪怨大将軍レムール/じゅおんだいしょうぐん れむーる|/幻想,戦士,死霊,呪い
+U00249|9|0|600|neosdb:///|neosdb:///ba061b70f323a27c06cbeb5c905ec2e184b61aeba10f287131e43e89624dbeb1.jpg|23|/呪怨大将軍レムール/じゅおんだいしょうぐん れむーる|/幻想,戦士,死霊,呪い
 S00001|0|0|0|neosdb:///7d6c62a7ce7fd1a1ec6fe70bdf23a81be3d7d0a63c8ba54fba6c97fd32e1f35b.webp|neosdb:///0a8eb794ac449d902dfccb2c70883a237d27a4ee70324ffdeea25e41a402435f.jpg|0|Arson/不審火/ふしんび|Fire/炎
 S00002|0|0|0|neosdb:///7d6c62a7ce7fd1a1ec6fe70bdf23a81be3d7d0a63c8ba54fba6c97fd32e1f35b.webp|neosdb:///0a8eb794ac449d902dfccb2c70883a237d27a4ee70324ffdeea25e41a402435f.jpg|1|Valhalla's Blessing/ヴァルハラの祝福/ゔぁるはらのしゅくふく|Light/光
 S00003|1|0|0|neosdb:///7d6c62a7ce7fd1a1ec6fe70bdf23a81be3d7d0a63c8ba54fba6c97fd32e1f35b.webp|neosdb:///0a8eb794ac449d902dfccb2c70883a237d27a4ee70324ffdeea25e41a402435f.jpg|2|Marine Snow Sacrifice/マリンスノー・サクリファイス/まりんすのー・さくりふぁいす|Water/水
