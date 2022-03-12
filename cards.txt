@@ -548,12 +548,12 @@ I00087|0|0|0|neosdb:///d9f1a6d68597e7b8d5fb799ee734d53c7a1be72b8f89c5593f7e0034b
 I00088|0|0|0|neosdb:///d9f1a6d68597e7b8d5fb799ee734d53c7a1be72b8f89c5593f7e0034b87f6235.webp|neosdb:///a45b0a3cebfa9d678f38d27c5b17036a1b21e4bfc5a6ef057ba720232986a419.jpg|42|/鎮魂花/ちんこんか|/植物
 I00089|2|0|0|neosdb:///d9f1a6d68597e7b8d5fb799ee734d53c7a1be72b8f89c5593f7e0034b87f6235.webp|neosdb:///a45b0a3cebfa9d678f38d27c5b17036a1b21e4bfc5a6ef057ba720232986a419.jpg|43|/天界の応援旗/てんかいのおうえんか|/光
 I00090|0|0|0|neosdb:///d9f1a6d68597e7b8d5fb799ee734d53c7a1be72b8f89c5593f7e0034b87f6235.webp|neosdb:///a45b0a3cebfa9d678f38d27c5b17036a1b21e4bfc5a6ef057ba720232986a419.jpg|44|/地獄の傀儡糸/じごくのくぐついと|/人形
-I00091|1|0|0|neosdb:///85e1fd9f073a12ec88d5263f1c01cdd4cee09b2d452a928f5b9cc3623f5ef3e0.webp|neosdb:///bd161959c2372f19146d57d06d08cfa15de21316ab7a63942e66e00e2715f1de.jpg|0|/心影幻鏡/しんえいげんきょう|/光
-I00092|4|0|0|neosdb:///85e1fd9f073a12ec88d5263f1c01cdd4cee09b2d452a928f5b9cc3623f5ef3e0.webp|neosdb:///bd161959c2372f19146d57d06d08cfa15de21316ab7a63942e66e00e2715f1de.jpg|1|/幻鏡の深淵/げんきょうのしんえん|/幻想
-I00093|0|0|0|neosdb:///85e1fd9f073a12ec88d5263f1c01cdd4cee09b2d452a928f5b9cc3623f5ef3e0.webp|neosdb:///bd161959c2372f19146d57d06d08cfa15de21316ab7a63942e66e00e2715f1de.jpg|2|/旅人の街道/たびびとのかい|/建造物
-I00094|0|0|0|neosdb:///85e1fd9f073a12ec88d5263f1c01cdd4cee09b2d452a928f5b9cc3623f5ef3e0.webp|neosdb:///bd161959c2372f19146d57d06d08cfa15de21316ab7a63942e66e00e2715f1de.jpg|3|/七星の竜宝/しちせいのりゅうほう|/ドラゴン
-I00095|4|0|0|neosdb:///85e1fd9f073a12ec88d5263f1c01cdd4cee09b2d452a928f5b9cc3623f5ef3e0.webp|neosdb:///bd161959c2372f19146d57d06d08cfa15de21316ab7a63942e66e00e2715f1de.jpg|4|/破壊による創造/はかいによるそうぞう|/地,神話
-I00096|0|0|0|neosdb:///85e1fd9f073a12ec88d5263f1c01cdd4cee09b2d452a928f5b9cc3623f5ef3e0.webp|neosdb:///bd161959c2372f19146d57d06d08cfa15de21316ab7a63942e66e00e2715f1de.jpg|5|/能力調整装置/のうりょくちょうせいそうち|/PSI,機械
+I00091|1|0|0|neosdb:///4b7944b13d225571ab8aa4b8febb357dbb5c83341a91f2c3206597d4d604d7cf.webp|neosdb:///bd161959c2372f19146d57d06d08cfa15de21316ab7a63942e66e00e2715f1de.jpg|0|/心影幻鏡/しんえいげんきょう|/光
+I00092|4|0|0|neosdb:///4b7944b13d225571ab8aa4b8febb357dbb5c83341a91f2c3206597d4d604d7cf.webp|neosdb:///bd161959c2372f19146d57d06d08cfa15de21316ab7a63942e66e00e2715f1de.jpg|1|/幻鏡の深淵/げんきょうのしんえん|/幻想
+I00093|0|0|0|neosdb:///4b7944b13d225571ab8aa4b8febb357dbb5c83341a91f2c3206597d4d604d7cf.webp|neosdb:///bd161959c2372f19146d57d06d08cfa15de21316ab7a63942e66e00e2715f1de.jpg|2|/旅人の街道/たびびとのかい|/建造物
+I00094|0|0|0|neosdb:///4b7944b13d225571ab8aa4b8febb357dbb5c83341a91f2c3206597d4d604d7cf.webp|neosdb:///bd161959c2372f19146d57d06d08cfa15de21316ab7a63942e66e00e2715f1de.jpg|3|/七星の竜宝/しちせいのりゅうほう|/ドラゴン
+I00095|4|0|0|neosdb:///4b7944b13d225571ab8aa4b8febb357dbb5c83341a91f2c3206597d4d604d7cf.webp|neosdb:///bd161959c2372f19146d57d06d08cfa15de21316ab7a63942e66e00e2715f1de.jpg|4|/破壊による創造/はかいによるそうぞう|/地,神話
+I00096|0|0|0|neosdb:///4b7944b13d225571ab8aa4b8febb357dbb5c83341a91f2c3206597d4d604d7cf.webp|neosdb:///bd161959c2372f19146d57d06d08cfa15de21316ab7a63942e66e00e2715f1de.jpg|5|/能力調整装置/のうりょくちょうせいそうち|/PSI,機械
 T00001|0|0|0|neosdb:///b56701c96ede9b1ed55c0cda77800b8a92ce8a4daacd257879de95a1b7eb1aca.webp|neosdb:///7d94b6fc8069f5577efde1c84d2f7ca3ee9d7eac90b9f4747b0d5dce11a8f6f4.jpg|0|Light Trick Token/幻光トークン/げんこうとーくん|"Illusion, Light Insect/幻想,光,虫"
 T00002|1|0|0|neosdb:///b56701c96ede9b1ed55c0cda77800b8a92ce8a4daacd257879de95a1b7eb1aca.webp|neosdb:///7d94b6fc8069f5577efde1c84d2f7ca3ee9d7eac90b9f4747b0d5dce11a8f6f4.jpg|1|Ice Art Token/アイス・アート・トークン/あいす・あーと・とーくん|Ice/氷
 T00003|0|0|0|neosdb:///b56701c96ede9b1ed55c0cda77800b8a92ce8a4daacd257879de95a1b7eb1aca.webp|neosdb:///7d94b6fc8069f5577efde1c84d2f7ca3ee9d7eac90b9f4747b0d5dce11a8f6f4.jpg|2|Monstrosity Token/怪異トークン/かいいとーくん|"Illusion, Curse/幻想,呪い"
