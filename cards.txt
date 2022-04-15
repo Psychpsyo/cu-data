@@ -251,7 +251,7 @@ U00250|2|200|100|neosdb:///0c65fe0731a95126a2fdcac95d6ffc7d5899f4ef5576e446434dd
 U00251|5|500|500|neosdb:///0c65fe0731a95126a2fdcac95d6ffc7d5899f4ef5576e446434dd418e8155e94.webp|neosdb:///de22185080a36eb6099e288074c1990534713d964f65dffb53f3640ac538e931.jpg|25|/バーニング・メタルゴーレム/ばーにんぐ・めたるごーれむ|/炎,機械,人形
 U00252|0|0|50|neosdb:///0c65fe0731a95126a2fdcac95d6ffc7d5899f4ef5576e446434dd418e8155e94.webp|neosdb:///de22185080a36eb6099e288074c1990534713d964f65dffb53f3640ac538e931.jpg|26|/クレアボヤンス・オペレーター/くれあぼやんす・おぺれーたー|/幻想,PSI
 U00253|1|100|0|neosdb:///0c65fe0731a95126a2fdcac95d6ffc7d5899f4ef5576e446434dd418e8155e94.webp|neosdb:///de22185080a36eb6099e288074c1990534713d964f65dffb53f3640ac538e931.jpg|27|/スクラップ・チーフ/すくらっぷ・ちーふ|/機械,魔術師
-U00254|1|100|0|neosdb:///0c65fe0731a95126a2fdcac95d6ffc7d5899f4ef5576e446434dd418e8155e94.webp|neosdb:///|28|///
+U00254|3|300|50|neosdb:///0c65fe0731a95126a2fdcac95d6ffc7d5899f4ef5576e446434dd418e8155e94.webp|neosdb:///|28|///
 S00001|0|0|0|neosdb:///7d6c62a7ce7fd1a1ec6fe70bdf23a81be3d7d0a63c8ba54fba6c97fd32e1f35b.webp|neosdb:///0a8eb794ac449d902dfccb2c70883a237d27a4ee70324ffdeea25e41a402435f.jpg|0|Arson/不審火/ふしんび|Fire/炎
 S00002|0|0|0|neosdb:///7d6c62a7ce7fd1a1ec6fe70bdf23a81be3d7d0a63c8ba54fba6c97fd32e1f35b.webp|neosdb:///0a8eb794ac449d902dfccb2c70883a237d27a4ee70324ffdeea25e41a402435f.jpg|1|Valhalla's Blessing/ヴァルハラの祝福/ゔぁるはらのしゅくふく|Light/光
 S00003|1|0|0|neosdb:///7d6c62a7ce7fd1a1ec6fe70bdf23a81be3d7d0a63c8ba54fba6c97fd32e1f35b.webp|neosdb:///0a8eb794ac449d902dfccb2c70883a237d27a4ee70324ffdeea25e41a402435f.jpg|2|Marine Snow Sacrifice/マリンスノー・サクリファイス/まりんすのー・さくりふぁいす|Water/水
