@@ -103,7 +103,7 @@ for lang in languages:
 			)
 
 # Dump it to the console for good measure
-print("Setting the following cloud vars")
+print("Setting the following cloud vars:")
 print(json.dumps(cloudVars, indent=4) + "\n\n")
 
 print("Loading Neos credentials...")
