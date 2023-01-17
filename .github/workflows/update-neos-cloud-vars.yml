@@ -20,4 +20,4 @@ jobs:
           python -m pip install requests
           echo "Installed python requests library."
       - name: Set Cloud Variables
-        run: python .\.github\scripts\cloudVarUpdater.py
+        run: python ./.github/scripts/cloudVarUpdater.py
