@@ -1,0 +1,23 @@
+name: Neos Cloud Var Updater
+run-name: Neos cloud variable update triggered by push from ${{ github.actor }}
+on:
+  push:
+    branches:
+      - 'master'
+jobs:
+  update-cloud-variables:
+    env:
+      NEOS_CREDENTIALS: ${{secrets.NEOS_CREDENTIALS}}
+    permissions:
+      contents: read
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - run: echo "Cloned repository to the runner."
+      - name: Installing dependencies
+        run: |
+          python -m pip install requests
+          echo "Installed python requests library."
+      - name: Set Cloud Variables
+        run: python .\.github\scripts\cloudVarUpdater.py
