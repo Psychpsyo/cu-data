@@ -130,20 +130,28 @@ loginResponse = requests.post(
 )
 
 if loginResponse.status_code != 200:
-	print("Could not log in to Neos with the given credentials. (Error Code " + str(loginResponse.status_code) + ")")
+	print("Could not log in to Neos with the given credentials. (Error Code " + str(loginResponse.status_code) + ", Error message \"" + loginResponse.text + "\")")
 	sys.exit(1)
 
 print("Sucessfully logged in.")
 sessionToken = loginResponse.json()["token"]
 
 print("Updating cloud variables.")
-requests.post(
-	"https://www.neosvr-api.com/api/writevars",
-	headers = {
-		"Authorization": "neos " + userId + ":" + sessionToken
-	},
-	json = cloudVars
-)
+updateError = False
+batchSize = 32
+# batch the cloud var update list into groups of 32 since that is the limit of Neos' API
+for batch in range(0, len(cloudVars), batchSize):
+	updateResponse = requests.post(
+		"https://www.neosvr-api.com/api/writevars",
+		headers = {
+			"Authorization": "neos " + userId + ":" + sessionToken
+		},
+		json = cloudVars[batch:batch+batchSize]
+	)
+	
+	if updateResponse.status_code != 200:
+		print("Failed to update cloud variable batch #" + str(int(batch / 32)) + " (Error Code " + str(updateResponse.status_code) + ", Error message \"" + updateResponse.text + "\")")
+		updateError = True
 
 # log out of the Neos account
 print("Logging out of Neos account.")
@@ -153,3 +161,5 @@ requests.delete(
 		"Authorization": "neos " + userId + ":" + sessionToken
 	}
 )
+
+sys.exit(1 if updateError else 0)
