@@ -21,6 +21,7 @@ import os
 import requests
 import json
 import sys
+import time
 
 languages = ["en", "ja"]
 langLinkColumn = {
@@ -141,6 +142,7 @@ updateError = False
 batchSize = 32
 # batch the cloud var update list into groups of 32 since that is the limit of Neos' API
 for batch in range(0, len(cloudVars), batchSize):
+	print("Submitting batch #" + str(int(batch / 32)) + ".")
 	updateResponse = requests.post(
 		"https://www.neosvr-api.com/api/writevars",
 		headers = {
@@ -152,6 +154,8 @@ for batch in range(0, len(cloudVars), batchSize):
 	if updateResponse.status_code != 200:
 		print("Failed to update cloud variable batch #" + str(int(batch / 32)) + " (Error Code " + str(updateResponse.status_code) + ", Error message \"" + updateResponse.text + "\")")
 		updateError = True
+	# hoping to not get caught in some undocumented rate-limiting system
+	time.sleep(2)
 
 # log out of the Neos account
 print("Logging out of Neos account.")
