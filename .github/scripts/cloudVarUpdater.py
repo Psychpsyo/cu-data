@@ -23,6 +23,9 @@ import json
 import sys
 import time
 
+# TODO: Switch back to api.neos.com once that SSL cert gets renewed
+neosApiUrl = "https://cloudx.azurewebsites.net/"
+
 languages = ["en", "ja"]
 langLinkColumn = {
 	"en": 4,
@@ -122,7 +125,7 @@ password = neosCredentials[2]
 # log in to the Neos account
 print("Logging in to Neos account...")
 loginResponse = requests.post(
-	"https://www.neosvr-api.com/api/userSessions",
+	neosApiUrl + "api/userSessions",
 	json = {
 		"username": username,
 		"password": password,
@@ -144,7 +147,7 @@ batchSize = 32
 for batch in range(0, len(cloudVars), batchSize):
 	print("Submitting batch #" + str(int(batch / 32)) + ".")
 	updateResponse = requests.post(
-		"https://www.neosvr-api.com/api/writevars",
+		neosApiUrl + "api/writevars",
 		headers = {
 			"Authorization": "neos " + userId + ":" + sessionToken
 		},
@@ -160,7 +163,7 @@ for batch in range(0, len(cloudVars), batchSize):
 # log out of the Neos account
 print("Logging out of Neos account.")
 requests.delete(
-	"https://www.neosvr-api.com/api/userSessions/" + userId + "/" + sessionToken,
+	neosApiUrl + "api/userSessions/" + userId + "/" + sessionToken,
 	headers = {
 		"Authorization": "neos " + userId + ":" + sessionToken
 	}
