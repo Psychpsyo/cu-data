@@ -23,8 +23,7 @@ import json
 import sys
 import time
 
-# TODO: Switch back to api.neos.com once that SSL cert gets renewed
-neosApiUrl = "https://cloudx.azurewebsites.net/"
+neosApiUrl = "https://api.neos.com/"
 
 languages = ["en", "ja"]
 langLinkColumn = {
