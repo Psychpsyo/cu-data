@@ -1,13 +1,14 @@
-# 
+import os
+import requests
+import json
+import sys
+import time
+
+#--INTRO-------------------------------------------------------------------------#
+
 # This file runs as a Github Action and updates the following cloud variables in
-# Neos based on the data in cards.txt and the NEOS_CREDENTIALS repository secret.
-# 
-# {0} in these names is a placeholder for an index that ranges from 0 to however
-# many atlases for the given card type there are.
-# 
-# {lang} is a placeholder for the language code associated with the atlas.
-# Currently only "en" and "ja" are possible.
-# 
+# Neos based on the data in cards.txt and the NEOS_CREDENTIALS repository secret
+
 # G-Cross-Universe.unitCount
 # G-Cross-Universe.spellCount
 # G-Cross-Universe.itemCount
@@ -17,11 +18,13 @@
 # G-Cross-Universe.itemAtlas{0}{lang}
 # G-Cross-Universe.tokenAtlas{0}{lang}
 
-import os
-import requests
-import json
-import sys
-import time
+# {0} in these names is a placeholder for an index that ranges from 0 to however
+# many atlases for the given card type there are.
+
+# {lang} is a placeholder for the language code associated with the atlas.
+# Currently only "en" and "ja" are possible.
+
+#--------------------------------------------------------------------------------#
 
 neosApiUrl = "https://api.neos.com/"
 
