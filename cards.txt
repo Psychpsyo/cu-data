@@ -502,9 +502,11 @@ S00222|0|0|0|neosdb:///f500948434e420f6087699cdd2f4e30f7e07f6dcc51fa0e2ea7ef867b
 S00223|1|0|0|neosdb:///f500948434e420f6087699cdd2f4e30f7e07f6dcc51fa0e2ea7ef867b0f5e0da.webp|neosdb:///2349d5e29a5452b16b6d7484819953982993547a76463baf50ba99f28dd0b58f.jpg|42|Lightning-Fast Chant/雷速詠唱/らいそくえいしょう|Electric/雷
 S00224|2|0|0|neosdb:///f500948434e420f6087699cdd2f4e30f7e07f6dcc51fa0e2ea7ef867b0f5e0da.webp|neosdb:///2349d5e29a5452b16b6d7484819953982993547a76463baf50ba99f28dd0b58f.jpg|43|Lightning Warrior Clothes/電衣無双/でにむそう|Electric/雷
 S00225|1|0|0|neosdb:///f500948434e420f6087699cdd2f4e30f7e07f6dcc51fa0e2ea7ef867b0f5e0da.webp|neosdb:///2349d5e29a5452b16b6d7484819953982993547a76463baf50ba99f28dd0b58f.jpg|44|Flaming Barrier/火焔防壁/かえんぼうへき|Fire, Boundary/炎,結界
-S00226|1|0|0|neosdb:///8a554c47851817df2843a1187017c559e2e39c2b49376f4c9546a31a43d8ea14.webp|neosdb:///44b7064a57f13d2debd53ea2467c6b8f81b6dc40ba48f1ea02c9d27d73af47ed.jpg|0|Flaming Wave Slash/火焔烈波漸/かえんれっぱざん|Fire, Katana/炎,刀
-S00227|0|0|0|neosdb:///8a554c47851817df2843a1187017c559e2e39c2b49376f4c9546a31a43d8ea14.webp|neosdb:///44b7064a57f13d2debd53ea2467c6b8f81b6dc40ba48f1ea02c9d27d73af47ed.jpg|1|Makai's Dark Deal/魔界の闇取引/まかいのやみとりひき|Demon/悪鬼
-S00228|1|0|0|neosdb:///8a554c47851817df2843a1187017c559e2e39c2b49376f4c9546a31a43d8ea14.webp|neosdb:///|2|Painful Call/ペインフル・コール/ぺいんふる・こーる|/
+S00226|1|0|0|neosdb:///ae17a57a87269cde4a55834a44b9341e26cfdf81baa78b4a62b7fb1874339958.webp|neosdb:///44b7064a57f13d2debd53ea2467c6b8f81b6dc40ba48f1ea02c9d27d73af47ed.jpg|0|Flaming Wave Slash/火焔烈波漸/かえんれっぱざん|Fire, Katana/炎,刀
+S00227|0|0|0|neosdb:///ae17a57a87269cde4a55834a44b9341e26cfdf81baa78b4a62b7fb1874339958.webp|neosdb:///44b7064a57f13d2debd53ea2467c6b8f81b6dc40ba48f1ea02c9d27d73af47ed.jpg|1|Makai's Dark Deal/魔界の闇取引/まかいのやみとりひき|Demon/悪鬼
+S00228|1|0|0|neosdb:///ae17a57a87269cde4a55834a44b9341e26cfdf81baa78b4a62b7fb1874339958.webp|neosdb:///|2|Painful Call/ペインフル・コール/ぺいんふる・こーる|/
+S00229|2|0|0|neosdb:///ae17a57a87269cde4a55834a44b9341e26cfdf81baa78b4a62b7fb1874339958.webp|neosdb:///|3|Heaven's Judgement/天の判決/てんのはんけつ|Light/光
+S00230|1|0|0|neosdb:///ae17a57a87269cde4a55834a44b9341e26cfdf81baa78b4a62b7fb1874339958.webp|neosdb:///|4|A Call for Lesser Punishment/減刑の嘆願/げんけいのたんがん|/
 I00001|2|0|0|neosdb:///2726ddc5aa4a22f3814acf05cfa16d950d11b0c88744bd3c79744328d64e240d.webp|neosdb:///421b6e19cedd31a6b357afbfffe6b4eb7b622f63496806108b4792605f6dbffd.jpg|0|Stone Circle/ストーン・サークル/すとーん・さーくる|Earth, Rock, Structure/地,岩石,建造物
 I00002|5|0|0|neosdb:///2726ddc5aa4a22f3814acf05cfa16d950d11b0c88744bd3c79744328d64e240d.webp|neosdb:///421b6e19cedd31a6b357afbfffe6b4eb7b622f63496806108b4792605f6dbffd.jpg|1|Tower of Truth/真理の塔/しんりのとう|Earth, Structure/地,建造物
 I00003|0|0|0|neosdb:///2726ddc5aa4a22f3814acf05cfa16d950d11b0c88744bd3c79744328d64e240d.webp|neosdb:///421b6e19cedd31a6b357afbfffe6b4eb7b622f63496806108b4792605f6dbffd.jpg|2|Witch's Remedy/魔女の治療薬/まじょのちりょうやく|Medicine/薬
