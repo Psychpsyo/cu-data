@@ -7,7 +7,7 @@ import time
 #--INTRO-------------------------------------------------------------------------#
 
 # This file runs as a Github Action and updates the following cloud variables in
-# Neos based on the data in cards.txt and the NEOS_CREDENTIALS repository secret
+# Resonite with the data in cards.txt and the RESO_CREDENTIALS repository secret
 
 # G-Cross-Universe.unitCount
 # G-Cross-Universe.spellCount
@@ -18,15 +18,15 @@ import time
 # G-Cross-Universe.itemAtlas{0}{lang}
 # G-Cross-Universe.tokenAtlas{0}{lang}
 
-# {0} in these names is a placeholder for an index that ranges from 0 to however
-# many atlases for the given card type there are.
+# {0} in these names is a placeholder for an index that ranges from 0 to
+# however many atlases for the given card type there are.
 
 # {lang} is a placeholder for the language code associated with the atlas.
 # Currently only "en" and "ja" are possible.
 
 #--------------------------------------------------------------------------------#
 
-neosApiUrl = "https://api.neos.com/"
+resoniteApiUrl = "https://api.resonite.com/"
 
 languages = ["en", "ja"]
 langLinkColumn = {
@@ -58,8 +58,8 @@ cardAmounts = {
 }
 
 # checks if a potential link from cards.txt is actually valid and not just a placeholder
-def isValidNeosdbLink(link):
-	return link.startswith("neosdb:///") and len(link) > 16 # 16 is enough for "neosdb:///", a 4 letter file extension (.webp) and one character inbetween
+def isValidResdbLink(link):
+	return link.startswith("resdb:///") and len(link) > 15 # 15 is enough for "resdb:///", a 4 letter file extension (.webp) and one character of filename inbetween
 
 # read all atlas links and amounts of cards from cards.txt
 with open("cards.txt", "r", encoding="utf-8") as cardList:
@@ -87,7 +87,7 @@ print(str(cardAmounts["S"]) + " Spells")
 print(str(cardAmounts["I"]) + " Items")
 print(str(cardAmounts["T"]) + " Tokens\n\n")
 
-# prepare list of cloud var definitions to send to Neos' API
+# prepare list of cloud var definitions to send to Resonite's API
 cloudVars = []
 # card amounts
 for type in cardTypes:
@@ -112,35 +112,41 @@ for lang in languages:
 print("Setting the following cloud vars:")
 print(json.dumps(cloudVars, indent=4) + "\n\n")
 
-print("Loading Neos credentials...")
-neosCredentials = os.getenv("NEOS_CREDENTIALS")
-if not neosCredentials:
+print("Loading Resonite credentials...")
+resoCredentials = os.getenv("RESO_CREDENTIALS")
+if not resoCredentials:
 	print("Could not load Neos credentials, exiting.")
 	sys.exit(1)
 
 print("Sucessfully read credentials.")
-neosCredentials = neosCredentials.split("\n")
-username = neosCredentials[0]
-userId = neosCredentials[1]
-password = neosCredentials[2]
+resoCredentials = resoCredentials.split("\n")
+userId = resoCredentials[0]
+password = resoCredentials[1]
 
-# log in to the Neos account
-print("Logging in to Neos account...")
+# log in to the Resonite account
+print("Logging into Resonite account...")
 loginResponse = requests.post(
-	neosApiUrl + "api/userSessions",
+	resoniteApiUrl + "userSessions",
 	json = {
-		"username": username,
-		"password": password,
-		"rememberMe": False
+		"ownerId": userId,
+		"authentication": {
+			"$type": "password",
+			"password": password
+		},
+		"rememberMe": False,
+		"secretMachineId": "asdf"
+	},
+	headers = {
+		"UID": "3921893671349085641896491867190468190476876190456814946813497662"
 	}
 )
 
 if loginResponse.status_code != 200:
-	print("Could not log in to Neos with the given credentials. (Error Code " + str(loginResponse.status_code) + ", Error message \"" + loginResponse.text + "\")")
+	print("Could not login to Resonite with the given credentials. (Error Code " + str(loginResponse.status_code) + ", Error message \"" + loginResponse.text + "\")")
 	sys.exit(1)
 
 print("Sucessfully logged in.")
-sessionToken = loginResponse.json()["token"]
+sessionToken = loginResponse.json()["entity"]["token"]
 
 print("Updating cloud variables.")
 updateError = False
@@ -149,9 +155,9 @@ batchSize = 32
 for batch in range(0, len(cloudVars), batchSize):
 	print("Submitting batch #" + str(int(batch / 32)) + ".")
 	updateResponse = requests.post(
-		neosApiUrl + "api/writevars",
+		resoniteApiUrl + "writevars",
 		headers = {
-			"Authorization": "neos " + userId + ":" + sessionToken
+			"Authorization": "res " + userId + ":" + sessionToken
 		},
 		json = cloudVars[batch:batch+batchSize]
 	)
@@ -162,13 +168,16 @@ for batch in range(0, len(cloudVars), batchSize):
 	# hoping to not get caught in some undocumented rate-limiting system
 	time.sleep(2)
 
-# log out of the Neos account
-print("Logging out of Neos account.")
-requests.delete(
-	neosApiUrl + "api/userSessions/" + userId + "/" + sessionToken,
+# log out of the Resonite account
+print("Logging out of Resonite account.")
+logoutResponse = requests.delete(
+	resoniteApiUrl + "userSessions/" + userId + "/" + sessionToken,
 	headers = {
-		"Authorization": "neos " + userId + ":" + sessionToken
+		"Authorization": "res " + userId + ":" + sessionToken
 	}
 )
+
+if logoutResponse.status_code != 200:
+	print("Note: Ungraceful logout from Resonite account. (Error Code " + str(logoutResponse.status_code) + ", Error message \"" + logoutResponse.text + "\")")
 
 sys.exit(1 if updateError else 0)

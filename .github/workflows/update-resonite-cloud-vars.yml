@@ -1,5 +1,5 @@
-name: Neos Cloud Var Updater
-run-name: Neos cloud variable update triggered by push from ${{ github.actor }}
+name: Resonite Cloud Var Updater
+run-name: Resonite cloud variable update triggered by push from ${{ github.actor }}
 on:
   push:
     branches:
@@ -7,7 +7,7 @@ on:
 jobs:
   update-cloud-variables:
     env:
-      NEOS_CREDENTIALS: ${{secrets.NEOS_CREDENTIALS}}
+      RESO_CREDENTIALS: ${{secrets.RESO_CREDENTIALS}}
     permissions:
       contents: read
     runs-on: ubuntu-22.04
