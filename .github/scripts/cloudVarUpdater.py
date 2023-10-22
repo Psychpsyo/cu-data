@@ -75,7 +75,7 @@ with open("cards.txt", "r", encoding="utf-8") as cardList:
 				atlasLink = parts[langLinkColumn[lang]] # Link to the card atlas
 				
 				# Ends up keeping the last valid atlas link it finds for each atlas
-				if isValidNeosdbLink(atlasLink):
+				if isValidResdbLink(atlasLink):
 					if atlasIndex == 0:
 						atlases[lang][cardType].append(atlasLink)
 					else:
@@ -115,7 +115,7 @@ print(json.dumps(cloudVars, indent=4) + "\n\n")
 print("Loading Resonite credentials...")
 resoCredentials = os.getenv("RESO_CREDENTIALS")
 if not resoCredentials:
-	print("Could not load Neos credentials, exiting.")
+	print("Could not load Resonite credentials, exiting.")
 	sys.exit(1)
 
 print("Sucessfully read credentials.")
@@ -151,7 +151,7 @@ sessionToken = loginResponse.json()["entity"]["token"]
 print("Updating cloud variables.")
 updateError = False
 batchSize = 32
-# batch the cloud var update list into groups of 32 since that is the limit of Neos' API
+# batch the cloud var update list into groups of 32 since that is the limit of Resonite's API
 for batch in range(0, len(cloudVars), batchSize):
 	print("Submitting batch #" + str(int(batch / 32)) + ".")
 	updateResponse = requests.post(
