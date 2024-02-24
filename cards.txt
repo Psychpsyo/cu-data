@@ -284,7 +284,7 @@ U00283|7|0|700|resdb:///aa1564507e0bb5a91b30e007278c45950918af1eca28b51a8895b867
 U00284|3|300|200|resdb:///aa1564507e0bb5a91b30e007278c45950918af1eca28b51a8895b8678fd0ec69.webp|resdb:///eb2531ac1cde8306aa5f08bf671d07f65ed23cbef165cfd3d9cfac6ea1384441.jpg|13|Steel Chain Pterosaur/鉄鎖の翼竜/てっさのよくりゅう|Wind, Dragon, Chain/風,ドラゴン,鎖
 U00285|0|0|0|resdb:///aa1564507e0bb5a91b30e007278c45950918af1eca28b51a8895b8678fd0ec69.webp|resdb:///eb2531ac1cde8306aa5f08bf671d07f65ed23cbef165cfd3d9cfac6ea1384441.jpg|14|Martyr to Ideals/理想に殉じるもの/りそうにじゅんじるもの|Illusion, Mage, Machine/幻想,魔術師,機械
 U00286|10|0|0|resdb:///aa1564507e0bb5a91b30e007278c45950918af1eca28b51a8895b8678fd0ec69.webp|resdb:///eb2531ac1cde8306aa5f08bf671d07f65ed23cbef165cfd3d9cfac6ea1384441.jpg|15|Absolute God of the Perfect World/完全なる世界の絶対神/かんぜんなるせかいのぜったいしん|Illusion, Machine, Myth/幻想,機械,神話
-U00287|10|0|0|resdb:///|resdb:///eb2531ac1cde8306aa5f08bf671d07f65ed23cbef165cfd3d9cfac6ea1384441.jpg|16|/ビックアイス・イエティ/びっくあいす・いえてぃ|/氷,悪鬼,獣
+U00287|3|400|400|resdb:///|resdb:///eb2531ac1cde8306aa5f08bf671d07f65ed23cbef165cfd3d9cfac6ea1384441.jpg|16|/ビックアイス・イエティ/びっくあいす・いえてぃ|/氷,悪鬼,獣
 S00001|0|0|0|resdb:///e276521ca1a834215820e2d83e5917bb4875b8d875829d312cdb659751c0d671.webp|resdb:///0a8eb794ac449d902dfccb2c70883a237d27a4ee70324ffdeea25e41a402435f.jpg|0|Arson/不審火/ふしんび|Fire/炎
 S00002|0|0|0|resdb:///e276521ca1a834215820e2d83e5917bb4875b8d875829d312cdb659751c0d671.webp|resdb:///0a8eb794ac449d902dfccb2c70883a237d27a4ee70324ffdeea25e41a402435f.jpg|1|Valhalla's Blessing/ヴァルハラの祝福/ゔぁるはらのしゅくふく|Light/光
 S00003|1|0|0|resdb:///e276521ca1a834215820e2d83e5917bb4875b8d875829d312cdb659751c0d671.webp|resdb:///0a8eb794ac449d902dfccb2c70883a237d27a4ee70324ffdeea25e41a402435f.jpg|2|Marine Snow Sacrifice/マリンスノー・サクリファイス/まりんすのー・さくりふぁいす|Water/水
