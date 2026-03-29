@@ -580,19 +580,19 @@ S00267|2|0|0|resdb:///187e962417ec5644026455f996fee52bca4e77bc72b88791ce14664f1b
 S00268|2|0|0|resdb:///187e962417ec5644026455f996fee52bca4e77bc72b88791ce14664f1b2cf888.webp|resdb:///8e8138f3ae88f5b776343f2c7a7164cbebb2fbbed0d997d7ef100117e245eeb0.png|42|/吹き荒れる風/ふきあれるかぜ|/風,PSI
 S00269|8|0|0|resdb:///187e962417ec5644026455f996fee52bca4e77bc72b88791ce14664f1b2cf888.webp|resdb:///8e8138f3ae88f5b776343f2c7a7164cbebb2fbbed0d997d7ef100117e245eeb0.png|43|/時空の断裂/じくうのだんれつ|/重力
 S00270|7|0|0|resdb:///187e962417ec5644026455f996fee52bca4e77bc72b88791ce14664f1b2cf888.webp|resdb:///8e8138f3ae88f5b776343f2c7a7164cbebb2fbbed0d997d7ef100117e245eeb0.png|44|/星天の墜落/せいてんのついらく|/重力,神話
-S00271|1|0|0|resdb:///187e962417ec5644026455f996fee52bca4e77bc72b88791ce14664f1b2cf888.webp|resdb:///a152da3ae5cb30d21b13b7b5f0b0004f824fd80ce38e37a685a0c991ce4c21f9.jpg|0|/氷の万華鏡/こおりのまんげきょう|/氷
-S00272|2|0|0|resdb:///187e962417ec5644026455f996fee52bca4e77bc72b88791ce14664f1b2cf888.webp|resdb:///a152da3ae5cb30d21b13b7b5f0b0004f824fd80ce38e37a685a0c991ce4c21f9.jpg|1|/寄せては引いて/よせてはひいて|/水
-S00273|0|0|0|resdb:///187e962417ec5644026455f996fee52bca4e77bc72b88791ce14664f1b2cf888.webp|resdb:///a152da3ae5cb30d21b13b7b5f0b0004f824fd80ce38e37a685a0c991ce4c21f9.jpg|2|/眷属の強襲/けんぞくのきょうしゅう|/闇
-S00274|0|0|0|resdb:///187e962417ec5644026455f996fee52bca4e77bc72b88791ce14664f1b2cf888.webp|resdb:///a152da3ae5cb30d21b13b7b5f0b0004f824fd80ce38e37a685a0c991ce4c21f9.jpg|3|/決死の救出/けっしのきゅうしゅつ|/戦士
-S00275|3|0|0|resdb:///187e962417ec5644026455f996fee52bca4e77bc72b88791ce14664f1b2cf888.webp|resdb:///a152da3ae5cb30d21b13b7b5f0b0004f824fd80ce38e37a685a0c991ce4c21f9.jpg|4|/同一嫌悪/どういつけんお|/
-S00276|2|0|0|resdb:///187e962417ec5644026455f996fee52bca4e77bc72b88791ce14664f1b2cf888.webp|resdb:///a152da3ae5cb30d21b13b7b5f0b0004f824fd80ce38e37a685a0c991ce4c21f9.jpg|5|/神剣一閃/しんけんいっせん|/地,神話
-S00277|1|0|0|resdb:///187e962417ec5644026455f996fee52bca4e77bc72b88791ce14664f1b2cf888.webp|resdb:///a152da3ae5cb30d21b13b7b5f0b0004f824fd80ce38e37a685a0c991ce4c21f9.jpg|6|/精霊の呼び声/せいれいのよびごえ|/精霊
+S00271|1|0|0|resdb:///|resdb:///a152da3ae5cb30d21b13b7b5f0b0004f824fd80ce38e37a685a0c991ce4c21f9.jpg|0|/氷の万華鏡/こおりのまんげきょう|/氷
+S00272|2|0|0|resdb:///|resdb:///a152da3ae5cb30d21b13b7b5f0b0004f824fd80ce38e37a685a0c991ce4c21f9.jpg|1|/寄せては引いて/よせてはひいて|/水
+S00273|0|0|0|resdb:///|resdb:///a152da3ae5cb30d21b13b7b5f0b0004f824fd80ce38e37a685a0c991ce4c21f9.jpg|2|/眷属の強襲/けんぞくのきょうしゅう|/闇
+S00274|0|0|0|resdb:///|resdb:///a152da3ae5cb30d21b13b7b5f0b0004f824fd80ce38e37a685a0c991ce4c21f9.jpg|3|/決死の救出/けっしのきゅうしゅつ|/戦士
+S00275|3|0|0|resdb:///|resdb:///a152da3ae5cb30d21b13b7b5f0b0004f824fd80ce38e37a685a0c991ce4c21f9.jpg|4|/同一嫌悪/どういつけんお|/
+S00276|2|0|0|resdb:///|resdb:///a152da3ae5cb30d21b13b7b5f0b0004f824fd80ce38e37a685a0c991ce4c21f9.jpg|5|/神剣一閃/しんけんいっせん|/地,神話
+S00277|1|0|0|resdb:///|resdb:///a152da3ae5cb30d21b13b7b5f0b0004f824fd80ce38e37a685a0c991ce4c21f9.jpg|6|/精霊の呼び声/せいれいのよびごえ|/精霊
 I00001|2|0|0|resdb:///f694498e025e65d2c550e8c5f1e3a87f36f98324f65e68749f456460d33954d7.webp|resdb:///77f3a18831657c8f0003b99d592f7fec1fc283dab26765ca216fea9d81b75f64.jpg|0|Stone Circle/ストーン・サークル/すとーん・さーくる|Earth, Rock, Structure/地,岩石,建造物
 I00002|5|0|0|resdb:///f694498e025e65d2c550e8c5f1e3a87f36f98324f65e68749f456460d33954d7.webp|resdb:///77f3a18831657c8f0003b99d592f7fec1fc283dab26765ca216fea9d81b75f64.jpg|1|Tower of Truth/真理の塔/しんりのとう|Earth, Structure/地,建造物
 I00003|0|0|0|resdb:///f694498e025e65d2c550e8c5f1e3a87f36f98324f65e68749f456460d33954d7.webp|resdb:///77f3a18831657c8f0003b99d592f7fec1fc283dab26765ca216fea9d81b75f64.jpg|2|Witch's Remedy/魔女の治療薬/まじょのちりょうやく|Medicine/薬
 I00004|0|0|0|resdb:///f694498e025e65d2c550e8c5f1e3a87f36f98324f65e68749f456460d33954d7.webp|resdb:///77f3a18831657c8f0003b99d592f7fec1fc283dab26765ca216fea9d81b75f64.jpg|3|New Blueprint/新たな図面/あらたなずめん|/
 I00005|0|0|0|resdb:///f694498e025e65d2c550e8c5f1e3a87f36f98324f65e68749f456460d33954d7.webp|resdb:///77f3a18831657c8f0003b99d592f7fec1fc283dab26765ca216fea9d81b75f64.jpg|4|Muscle Pump Potion/筋力増強剤/きんりょくぞうきょうざい|Medicine/薬
-I00006|1|0|0|resdb:///f694498e025e65d2c550e8c5f1e3a87f36f98324f65e68749f456460d33954d7.webp|resdb:///77f3a18831657c8f0003b99d592f7fec1fc283dab26765ca216fea9d81b75f64.jpg|5|Convening Horn/召集の角笛/しょうしゅうのつのぶえ|/
+I00006|0|0|0|resdb:///f694498e025e65d2c550e8c5f1e3a87f36f98324f65e68749f456460d33954d7.webp|resdb:///77f3a18831657c8f0003b99d592f7fec1fc283dab26765ca216fea9d81b75f64.jpg|5|Convening Horn/召集の角笛/しょうしゅうのつのぶえ|/
 I00007|2|0|0|resdb:///f694498e025e65d2c550e8c5f1e3a87f36f98324f65e68749f456460d33954d7.webp|resdb:///77f3a18831657c8f0003b99d592f7fec1fc283dab26765ca216fea9d81b75f64.jpg|6|Body Duplication Mirror/写し身の鏡/うつしみのかがみ|Light, Dark/光,闇
 I00008|1|0|0|resdb:///f694498e025e65d2c550e8c5f1e3a87f36f98324f65e68749f456460d33954d7.webp|resdb:///77f3a18831657c8f0003b99d592f7fec1fc283dab26765ca216fea9d81b75f64.jpg|7|Substitution Doll/身代わりの人形/みかわりのひとがた|Figure/人形
 I00009|0|0|0|resdb:///f694498e025e65d2c550e8c5f1e3a87f36f98324f65e68749f456460d33954d7.webp|resdb:///77f3a18831657c8f0003b99d592f7fec1fc283dab26765ca216fea9d81b75f64.jpg|8|Common Sword/コモン・ソード/こもん・そーど|Sword/剣
